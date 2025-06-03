@@ -1,0 +1,16 @@
+{
+  "User": {
+    "UserName": "_pt1chka_",
+    "Defalt": "user"
+  },
+  "TelegramId": {
+    "Status": false,
+    "Id": null,
+    "Defalt": null
+  },
+  "TInvestToken": {
+    "Status": true,
+    "Id": "t.qz6BAzI65wwlBL3CNT6P3g_s4l_QGOH_kTVnfxMXh00I3qUL0tq9V4-16YC7e65Zr24M-qgbvhcsnl1nh1AKIg",
+    "Defalt": null
+  }
+}

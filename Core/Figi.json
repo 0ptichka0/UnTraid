@@ -1,0 +1,480 @@
+{
+  "data": [
+    {
+      "ticker": "BBG004S68758",
+      "name": "Башнефть"
+    },
+    {
+      "ticker": "BBG004TC84Z8",
+      "name": "Трубная Металлургическая Компания"
+    },
+    {
+      "ticker": "BBG004730JJ5",
+      "name": "Московская Биржа"
+    },
+    {
+      "ticker": "BBG008F2T3T2",
+      "name": "РУСАЛ"
+    },
+    {
+      "ticker": "BBG000RJL816",
+      "name": "Таттелеком"
+    },
+    {
+      "ticker": "BBG000VKG4R5",
+      "name": "МРСК Урала"
+    },
+    {
+      "ticker": "BBG004731489",
+      "name": "Норильский никель"
+    },
+    {
+      "ticker": "BBG000TJ6F42",
+      "name": "МРСК Северо-Запада"
+    },
+    {
+      "ticker": "BBG000Q7GG57",
+      "name": "ТГК-2"
+    },
+    {
+      "ticker": "BBG0029SFXB3",
+      "name": "ПАО «КАЗАНЬОРГСИНТЕЗ»"
+    },
+    {
+      "ticker": "BBG004S687G6",
+      "name": "МОЭСК"
+    },
+    {
+      "ticker": "BBG005D1WCQ1",
+      "name": "QIWI"
+    },
+    {
+      "ticker": "BBG000FWGSZ5",
+      "name": "Корпорация ИРКУТ"
+    },
+    {
+      "ticker": "BBG000N16BP3",
+      "name": "ИСКЧ"
+    },
+    {
+      "ticker": "BBG004S686W0",
+      "name": "Юнипро"
+    },
+    {
+      "ticker": "BBG000NLC9Z6",
+      "name": "Ленэнерго"
+    },
+    {
+      "ticker": "BBG00475K2X9",
+      "name": "РусГидро"
+    },
+    {
+      "ticker": "BBG006L8G4H1",
+      "name": "Yandex"
+    },
+    {
+      "ticker": "BBG004S68614",
+      "name": "АФК Система"
+    },
+    {
+      "ticker": "BBG000BX7DH0",
+      "name": "ТНС энерго Воронеж"
+    },
+    {
+      "ticker": "BBG004730ZJ9",
+      "name": "Банк ВТБ"
+    },
+    {
+      "ticker": "BBG004731354",
+      "name": "Роснефть"
+    },
+    {
+      "ticker": "BBG000GQSRR5",
+      "name": "Нижнекамскнефтехим"
+    },
+    {
+      "ticker": "BBG000RMWQD4",
+      "name": "En+ Group"
+    },
+    {
+      "ticker": "BBG000RP8V70",
+      "name": "ЧМК"
+    },
+    {
+      "ticker": "BBG00475JZZ6",
+      "name": "ФСК ЕЭС"
+    },
+    {
+      "ticker": "BBG004730RP0",
+      "name": "Газпром"
+    },
+    {
+      "ticker": "BBG004S68696",
+      "name": "Распадская"
+    },
+    {
+      "ticker": "BBG000K3STR7",
+      "name": "Аптечная сеть 36,6"
+    },
+    {
+      "ticker": "BBG00475K6C3",
+      "name": "Северсталь"
+    },
+    {
+      "ticker": "BBG001M2SC01",
+      "name": "Etalon Group PLC"
+    },
+    {
+      "ticker": "BBG0014PFYM2",
+      "name": "Русгрэйн"
+    },
+    {
+      "ticker": "BBG00VPKLPX4",
+      "name": "Petropavlovsk PLC"
+    },
+    {
+      "ticker": "BBG000PKWCQ7",
+      "name": "МРСК Волги"
+    },
+    {
+      "ticker": "BBG000Q49F45",
+      "name": "ЧТПЗ"
+    },
+    {
+      "ticker": "BBG000QW1WH0",
+      "name": "Кузбасская топливная компания"
+    },
+    {
+      "ticker": "BBG004S68B31",
+      "name": "АЛРОСА"
+    },
+    {
+      "ticker": "BBG002458LF8",
+      "name": "Селигдар"
+    },
+    {
+      "ticker": "BBG000RTHVK7",
+      "name": "Группа Черкизово"
+    },
+    {
+      "ticker": "BBG000W325F7",
+      "name": "Русская аквакультура"
+    },
+    {
+      "ticker": "BBG004S687W8",
+      "name": "Мосэнерго"
+    },
+    {
+      "ticker": "BBG004S68829",
+      "name": "Татнефть — привилегированные акции"
+    },
+    {
+      "ticker": "BBG0047315D0",
+      "name": "Сургутнефтегаз"
+    },
+    {
+      "ticker": "BBG000DBD6F6",
+      "name": "Калужская сбытовая компания"
+    },
+    {
+      "ticker": "BBG000QFH687",
+      "name": "ТГК-1"
+    },
+    {
+      "ticker": "BBG00B8NN386",
+      "name": "Городские Инновационные Технологии"
+    },
+    {
+      "ticker": "BBG000F6YP24",
+      "name": "Энел Россия"
+    },
+    {
+      "ticker": "BBG00HY6V6H5",
+      "name": "ГТМ"
+    },
+    {
+      "ticker": "BBG00178PGX3",
+      "name": "MAIL.RU"
+    },
+    {
+      "ticker": "BBG00F9XX7H4",
+      "name": "РуссНефть"
+    },
+    {
+      "ticker": "BBG003LYCMB1",
+      "name": "САФМАР"
+    },
+    {
+      "ticker": "BBG004S688G4",
+      "name": "Акрон"
+    },
+    {
+      "ticker": "BBG004RVFCY3",
+      "name": "Магнит"
+    },
+    {
+      "ticker": "BBG007N0Z367",
+      "name": "РусАгро"
+    },
+    {
+      "ticker": "BBG00F40L971",
+      "name": "Финансовая группа БУДУЩЕЕ"
+    },
+    {
+      "ticker": "BBG000LNHHJ9",
+      "name": "КАМАЗ"
+    },
+    {
+      "ticker": "BBG000SK7JS5",
+      "name": "Лензолото"
+    },
+    {
+      "ticker": "BBG0018X6YV1",
+      "name": "ТрансКонтейнер"
+    },
+    {
+      "ticker": "BBG000RK52V1",
+      "name": "Вторая генерирующая компания оптового рынка электроэнергии"
+    },
+    {
+      "ticker": "BBG001DJNR51",
+      "name": "РБК"
+    },
+    {
+      "ticker": "BBG004S682J4",
+      "name": "Российские сети"
+    },
+    {
+      "ticker": "BBG000VG1034",
+      "name": "МРСК Центра и Приволжья"
+    },
+    {
+      "ticker": "BBG004731032",
+      "name": "ЛУКОЙЛ"
+    },
+    {
+      "ticker": "BBG000R607Y3",
+      "name": "Полюс Золото"
+    },
+    {
+      "ticker": "BBG000QJW156",
+      "name": "Банк Санкт-Петербург"
+    },
+    {
+      "ticker": "BBG004RVFFC0",
+      "name": "Татнефть"
+    },
+    {
+      "ticker": "BBG002YFXL29",
+      "name": "ЮУНК"
+    },
+    {
+      "ticker": "BBG001BBSZV8",
+      "name": "Мультисистема"
+    },
+    {
+      "ticker": "BBG004S682Z6",
+      "name": "Ростелеком"
+    },
+    {
+      "ticker": "BBG00QPYJ5H0",
+      "name": "TCS Group"
+    },
+    {
+      "ticker": "BBG004S68CV8",
+      "name": "ВСМПО-АВИСМА"
+    },
+    {
+      "ticker": "BBG004S68CP5",
+      "name": "М.видео"
+    },
+    {
+      "ticker": "BBG004730N88",
+      "name": "Сбербанк России"
+    },
+    {
+      "ticker": "BBG002B25NL9",
+      "name": "АЛРОСА-Нюрба"
+    },
+    {
+      "ticker": "BBG004Z2RGW8",
+      "name": "Русолово"
+    },
+    {
+      "ticker": "BBG004S68BH6",
+      "name": "ПИК"
+    },
+    {
+      "ticker": "BBG004S689R0",
+      "name": "ФосАгро"
+    },
+    {
+      "ticker": "BBG003BNWBP3",
+      "name": "ЧЗПСН"
+    },
+    {
+      "ticker": "BBG004S681B4",
+      "name": "НЛМК"
+    },
+    {
+      "ticker": "BBG004S68JR8",
+      "name": "СОЛЛЕРС"
+    },
+    {
+      "ticker": "BBG000Q7ZZY2",
+      "name": "Объединенная авиастроительная корпорация"
+    },
+    {
+      "ticker": "BBG000NL6ZD9",
+      "name": "Иркутскэнерго"
+    },
+    {
+      "ticker": "BBG000RG4ZQ4",
+      "name": "ТГК-14"
+    },
+    {
+      "ticker": "BBG00475KHX6",
+      "name": "Транснефть"
+    },
+    {
+      "ticker": "BBG004S681W1",
+      "name": "МТС"
+    },
+    {
+      "ticker": "BBG000NLB2G3",
+      "name": "Красный Октябрь"
+    },
+    {
+      "ticker": "BBG004S68C39",
+      "name": "Группа ЛСР"
+    },
+    {
+      "ticker": "BBG000R466J1",
+      "name": "Русполимет"
+    },
+    {
+      "ticker": "BBG004S68BR5",
+      "name": "НМТП"
+    },
+    {
+      "ticker": "BBG004S68507",
+      "name": "Магнитогорский металлургический комбинат"
+    },
+    {
+      "ticker": "BBG004S684M6",
+      "name": "Газпром нефть"
+    },
+    {
+      "ticker": "BBG000V07CB8",
+      "name": "ДЭК"
+    },
+    {
+      "ticker": "BBG002BCQK67",
+      "name": "Наука-Связь"
+    },
+    {
+      "ticker": "BBG000TZGXK8",
+      "name": "ПРОТЕК"
+    },
+    {
+      "ticker": "BBG00475KKY8",
+      "name": "НОВАТЭК"
+    },
+    {
+      "ticker": "BBG000F6H7K3",
+      "name": "Квадра"
+    },
+    {
+      "ticker": "BBG000RJWGC4",
+      "name": "Ашинский метзавод"
+    },
+    {
+      "ticker": "BBG000BN56Q9",
+      "name": "Детский Мир"
+    },
+    {
+      "ticker": "BBG004S68598",
+      "name": "Мечел"
+    },
+    {
+      "ticker": "BBG000LWNRP3",
+      "name": "РКК Энергия им.С.П.Королева"
+    },
+    {
+      "ticker": "BBG000QQPXZ5",
+      "name": "Лента"
+    },
+    {
+      "ticker": "BBG000VJMH65",
+      "name": "МРСК Сибири"
+    },
+    {
+      "ticker": "BBG001BBGNS2",
+      "name": "Обувь России"
+    },
+    {
+      "ticker": "BBG000C7P5M7",
+      "name": "МРСК Юга"
+    },
+    {
+      "ticker": "BBG008HD3V85",
+      "name": "ОВК"
+    },
+    {
+      "ticker": "BBG000MZL0Y6",
+      "name": "Пермэнергосбыт"
+    },
+    {
+      "ticker": "BBG000TY1CD1",
+      "name": "Белуга Групп ПАО ао"
+    },
+    {
+      "ticker": "BBG000QF1Q17",
+      "name": "ДВМП"
+    },
+    {
+      "ticker": "BBG004PYF2N3",
+      "name": "Polymetal"
+    },
+    {
+      "ticker": "BBG009GSYN76",
+      "name": "МКБ"
+    },
+    {
+      "ticker": "BBG004S68DD6",
+      "name": "Мостотрест"
+    },
+    {
+      "ticker": "BBG00BGKYH17",
+      "name": "НКХП"
+    },
+    {
+      "ticker": "BBG000LWVHN8",
+      "name": "Дагестанская энергосбытовая компания"
+    },
+    {
+      "ticker": "BBG000VH7TZ8",
+      "name": "МРСК Центра"
+    },
+    {
+      "ticker": "BBG004S68473",
+      "name": "Интер РАО ЕЭС"
+    },
+    {
+      "ticker": "BBG000BBV4M5",
+      "name": "Центральный Телеграф"
+    },
+    {
+      "ticker": "BBG004S683W7",
+      "name": "Аэрофлот"
+    },
+    {
+      "ticker": "BBG00JXPFBN0",
+      "name": "ГДР X5 RetailGroup"
+    },
+    {
+      "ticker": "BBG002W2FT69",
+      "name": "АбрауДюрсо"
+    }
+  ]
+}

@@ -1,0 +1,3137 @@
+Структура папок
+Серийный номер тома: 687E-DD68
+C:.
+|   App.config
+|   App.xaml
+|   App.xaml.cs
+|   MainViewModel.cs
+|   MainWindow.xaml
+|   MainWindow.xaml.cs
+|   OpenTK.dll.config
+|   packages.config
+|   UnTraid.csproj
+|   UnTraid.sln
+|   UserDataPropertis.json
+|   структура.txt
+|   
++---bin
+|   +---Debug
+|   |   |   BouncyCastle.Cryptography.dll
+|   |   |   BouncyCastle.Cryptography.xml
+|   |   |   Enums.NET.dll
+|   |   |   Enums.NET.pdb
+|   |   |   Enums.NET.xml
+|   |   |   ExtendedNumerics.BigDecimal.dll
+|   |   |   ExtendedNumerics.BigDecimal.xml
+|   |   |   GLWpfControl.dll
+|   |   |   GLWpfControl.pdb
+|   |   |   Google.Api.CommonProtos.dll
+|   |   |   Google.Api.CommonProtos.pdb
+|   |   |   Google.Api.CommonProtos.xml
+|   |   |   Google.Protobuf.dll
+|   |   |   Google.Protobuf.pdb
+|   |   |   Google.Protobuf.xml
+|   |   |   Grpc.Core.Api.dll
+|   |   |   Grpc.Core.Api.pdb
+|   |   |   Grpc.Core.Api.xml
+|   |   |   Grpc.Net.Client.dll
+|   |   |   Grpc.Net.Client.pdb
+|   |   |   Grpc.Net.Client.Web.dll
+|   |   |   Grpc.Net.Client.Web.pdb
+|   |   |   Grpc.Net.Client.Web.xml
+|   |   |   Grpc.Net.Client.xml
+|   |   |   Grpc.Net.ClientFactory.dll
+|   |   |   Grpc.Net.ClientFactory.pdb
+|   |   |   Grpc.Net.ClientFactory.xml
+|   |   |   Grpc.Net.Common.dll
+|   |   |   Grpc.Net.Common.pdb
+|   |   |   Grpc.Net.Common.xml
+|   |   |   HarfBuzzSharp.dll
+|   |   |   HarfBuzzSharp.pdb
+|   |   |   HarfBuzzSharp.xml
+|   |   |   HtmlAgilityPack.dll
+|   |   |   HtmlAgilityPack.pdb
+|   |   |   HtmlAgilityPack.xml
+|   |   |   ICSharpCode.SharpZipLib.dll
+|   |   |   ICSharpCode.SharpZipLib.pdb
+|   |   |   ICSharpCode.SharpZipLib.xml
+|   |   |   libHarfBuzzSharp.dylib
+|   |   |   libSkiaSharp.dylib
+|   |   |   MathNet.Numerics.dll
+|   |   |   MathNet.Numerics.xml
+|   |   |   Microsoft.Bcl.AsyncInterfaces.dll
+|   |   |   Microsoft.Bcl.AsyncInterfaces.xml
+|   |   |   Microsoft.Extensions.DependencyInjection.Abstractions.dll
+|   |   |   Microsoft.Extensions.DependencyInjection.Abstractions.xml
+|   |   |   Microsoft.Extensions.DependencyInjection.dll
+|   |   |   Microsoft.Extensions.DependencyInjection.xml
+|   |   |   Microsoft.Extensions.Http.dll
+|   |   |   Microsoft.Extensions.Http.xml
+|   |   |   Microsoft.Extensions.Logging.Abstractions.dll
+|   |   |   Microsoft.Extensions.Logging.Abstractions.xml
+|   |   |   Microsoft.Extensions.Logging.dll
+|   |   |   Microsoft.Extensions.Logging.xml
+|   |   |   Microsoft.Extensions.Options.dll
+|   |   |   Microsoft.Extensions.Options.xml
+|   |   |   Microsoft.Extensions.Primitives.dll
+|   |   |   Microsoft.Extensions.Primitives.xml
+|   |   |   Microsoft.IO.RecyclableMemoryStream.dll
+|   |   |   Microsoft.IO.RecyclableMemoryStream.xml
+|   |   |   Newtonsoft.Json.dll
+|   |   |   Newtonsoft.Json.xml
+|   |   |   NPOI.Core.dll
+|   |   |   NPOI.Core.pdb
+|   |   |   NPOI.Core.xml
+|   |   |   NPOI.OOXML.dll
+|   |   |   NPOI.OOXML.pdb
+|   |   |   NPOI.OOXML.xml
+|   |   |   NPOI.OpenXml4Net.dll
+|   |   |   NPOI.OpenXml4Net.pdb
+|   |   |   NPOI.OpenXml4Net.xml
+|   |   |   NPOI.OpenXmlFormats.dll
+|   |   |   NPOI.OpenXmlFormats.pdb
+|   |   |   NPOI.OpenXmlFormats.xml
+|   |   |   OpenTK.dll
+|   |   |   OpenTK.GLControl.dll
+|   |   |   OpenTK.GLControl.pdb
+|   |   |   OpenTK.GLControl.xml
+|   |   |   OpenTK.pdb
+|   |   |   OpenTK.xml
+|   |   |   ScottPlot.dll
+|   |   |   ScottPlot.WPF.dll
+|   |   |   ScottPlot.xml
+|   |   |   SixLabors.Fonts.dll
+|   |   |   SixLabors.Fonts.xml
+|   |   |   SixLabors.ImageSharp.dll
+|   |   |   SixLabors.ImageSharp.xml
+|   |   |   SkiaSharp.dll
+|   |   |   SkiaSharp.HarfBuzz.dll
+|   |   |   SkiaSharp.HarfBuzz.pdb
+|   |   |   SkiaSharp.HarfBuzz.xml
+|   |   |   SkiaSharp.pdb
+|   |   |   SkiaSharp.Views.Desktop.Common.dll
+|   |   |   SkiaSharp.Views.Desktop.Common.pdb
+|   |   |   SkiaSharp.Views.Desktop.Common.xml
+|   |   |   SkiaSharp.Views.WindowsForms.dll
+|   |   |   SkiaSharp.Views.WindowsForms.pdb
+|   |   |   SkiaSharp.Views.WindowsForms.xml
+|   |   |   SkiaSharp.Views.WPF.dll
+|   |   |   SkiaSharp.Views.WPF.pdb
+|   |   |   SkiaSharp.Views.WPF.xml
+|   |   |   SkiaSharp.xml
+|   |   |   System.Buffers.dll
+|   |   |   System.Buffers.xml
+|   |   |   System.Diagnostics.DiagnosticSource.dll
+|   |   |   System.Diagnostics.DiagnosticSource.xml
+|   |   |   System.Drawing.Common.dll
+|   |   |   System.IO.Pipelines.dll
+|   |   |   System.IO.Pipelines.xml
+|   |   |   System.Memory.dll
+|   |   |   System.Memory.xml
+|   |   |   System.Net.Http.Json.dll
+|   |   |   System.Net.Http.Json.xml
+|   |   |   System.Net.Http.WinHttpHandler.dll
+|   |   |   System.Net.Http.WinHttpHandler.xml
+|   |   |   System.Numerics.Vectors.dll
+|   |   |   System.Numerics.Vectors.xml
+|   |   |   System.Runtime.CompilerServices.Unsafe.dll
+|   |   |   System.Runtime.CompilerServices.Unsafe.xml
+|   |   |   System.Security.Cryptography.Pkcs.dll
+|   |   |   System.Security.Cryptography.Pkcs.xml
+|   |   |   System.Security.Cryptography.Xml.dll
+|   |   |   System.Security.Cryptography.Xml.xml
+|   |   |   System.Text.Encoding.CodePages.dll
+|   |   |   System.Text.Encoding.CodePages.xml
+|   |   |   System.Text.Encodings.Web.dll
+|   |   |   System.Text.Encodings.Web.xml
+|   |   |   System.Text.Json.dll
+|   |   |   System.Text.Json.xml
+|   |   |   System.Threading.Tasks.Extensions.dll
+|   |   |   System.Threading.Tasks.Extensions.xml
+|   |   |   System.ValueTuple.dll
+|   |   |   System.ValueTuple.xml
+|   |   |   UnTraid.exe
+|   |   |   UnTraid.exe.config
+|   |   |   UnTraid.pdb
+|   |   |   WebDriver.dll
+|   |   |   WebDriver.xml
+|   |   |   
+|   |   +---arm
+|   |   |       libHarfBuzzSharp.so
+|   |   |       libSkiaSharp.so
+|   |   |       
+|   |   +---arm64
+|   |   |       libHarfBuzzSharp.dll
+|   |   |       libHarfBuzzSharp.so
+|   |   |       libSkiaSharp.dll
+|   |   |       libSkiaSharp.so
+|   |   |       
+|   |   +---musl-x64
+|   |   |       libHarfBuzzSharp.so
+|   |   |       libSkiaSharp.so
+|   |   |       
+|   |   +---selenium-manager
+|   |   |   +---linux
+|   |   |   |       selenium-manager
+|   |   |   |       
+|   |   |   +---macos
+|   |   |   |       selenium-manager
+|   |   |   |       
+|   |   |   \---windows
+|   |   |           selenium-manager.exe
+|   |   |           
+|   |   +---x64
+|   |   |       libHarfBuzzSharp.dll
+|   |   |       libHarfBuzzSharp.so
+|   |   |       libSkiaSharp.dll
+|   |   |       libSkiaSharp.so
+|   |   |       
+|   |   \---x86
+|   |           libHarfBuzzSharp.dll
+|   |           libSkiaSharp.dll
+|   |           
+|   \---Release
++---Core
+|   |   Figi.json
+|   |   FigiJsonData.cs
+|   |   FinamConnect.cs
+|   |   TelegramConnect.cs
+|   |   TInvestConnect.cs
+|   |   UserJsonData.cs
+|   |   
+|   \---Indicators
+|       +---Interface
+|       |       BaseIndicatorCalculator.cs
+|       |       IIndicatorCalculator.cs
+|       |       
+|       \---Servise
+|               IndicatorADX.cs
+|               IndicatorEMA.cs
+|               IndicatorMACD.cs
+|               IndicatorRSI.cs
+|               IndicatorSignalScore.cs
+|               IndicatorSMA.cs
+|               IndicatorStochastic.cs
+|               IndicatorTRIX.cs
+|               
++---DTO
+|       AdxDTO.cs
+|       FigiDataDTO.cs
+|       FinamDTO.cs
+|       MacdDTO.cs
+|       RsiDTO.cs
+|       SignalScoreDTO.cs
+|       StochasticDTO.cs
+|       TInvestDTO.cs
+|       TrixDTO.cs
+|       UserDataDTO.cs
+|       
++---obj
+|   \---Debug
+|       |   .NETFramework,Version=v4.8.AssemblyAttributes.cs
+|       |   App.g.cs
+|       |   App.g.i.cs
+|       |   DesignTimeResolveAssemblyReferences.cache
+|       |   DesignTimeResolveAssemblyReferencesInput.cache
+|       |   MainWindow.baml
+|       |   MainWindow.g.cs
+|       |   MainWindow.g.i.cs
+|       |   UnTraid.csproj.AssemblyReference.cache
+|       |   UnTraid.csproj.CoreCompileInputs.cache
+|       |   UnTraid.csproj.FileListAbsolute.txt
+|       |   UnTraid.csproj.GenerateResource.cache
+|       |   UnTraid.csproj.Up2Date
+|       |   UnTraid.exe
+|       |   UnTraid.g.resources
+|       |   UnTraid.pdb
+|       |   UnTraid.Properties.Resources.resources
+|       |   UnTraid_Content.g.cs
+|       |   UnTraid_Content.g.i.cs
+|       |   UnTraid_MarkupCompile.cache
+|       |   UnTraid_MarkupCompile.i.cache
+|       |   
+|       +---TempPE
+|       \---Views
+|               HomeView.baml
+|               HomeView.g.cs
+|               HomeView.g.i.cs
+|               SettingsView.baml
+|               SettingsView.g.cs
+|               SettingsView.g.i.cs
+|               UserDataView.baml
+|               UserDataView.g.cs
+|               UserDataView.g.i.cs
+|               
++---packages
+|   +---BouncyCastle.Cryptography.2.3.1
+|   |   |   .signature.p7s
+|   |   |   BouncyCastle.Cryptography.2.3.1.nupkg
+|   |   |   LICENSE.md
+|   |   |   packageIcon.png
+|   |   |   README.md
+|   |   |   
+|   |   \---lib
+|   |       +---net461
+|   |       |       BouncyCastle.Cryptography.dll
+|   |       |       BouncyCastle.Cryptography.xml
+|   |       |       
+|   |       +---net6.0
+|   |       |       BouncyCastle.Cryptography.dll
+|   |       |       BouncyCastle.Cryptography.xml
+|   |       |       
+|   |       \---netstandard2.0
+|   |               BouncyCastle.Cryptography.dll
+|   |               BouncyCastle.Cryptography.xml
+|   |               
+|   +---Enums.NET.4.0.1
+|   |   |   .signature.p7s
+|   |   |   Enums.NET.4.0.1.nupkg
+|   |   |   
+|   |   \---lib
+|   |       +---net45
+|   |       |       Enums.NET.dll
+|   |       |       Enums.NET.pdb
+|   |       |       Enums.NET.xml
+|   |       |       
+|   |       +---netcoreapp3.0
+|   |       |       Enums.NET.dll
+|   |       |       Enums.NET.pdb
+|   |       |       Enums.NET.xml
+|   |       |       
+|   |       +---netstandard1.0
+|   |       |       Enums.NET.dll
+|   |       |       Enums.NET.pdb
+|   |       |       Enums.NET.xml
+|   |       |       
+|   |       +---netstandard1.1
+|   |       |       Enums.NET.dll
+|   |       |       Enums.NET.pdb
+|   |       |       Enums.NET.xml
+|   |       |       
+|   |       +---netstandard1.3
+|   |       |       Enums.NET.dll
+|   |       |       Enums.NET.pdb
+|   |       |       Enums.NET.xml
+|   |       |       
+|   |       +---netstandard2.0
+|   |       |       Enums.NET.dll
+|   |       |       Enums.NET.pdb
+|   |       |       Enums.NET.xml
+|   |       |       
+|   |       \---netstandard2.1
+|   |               Enums.NET.dll
+|   |               Enums.NET.pdb
+|   |               Enums.NET.xml
+|   |               
+|   +---ExtendedNumerics.BigDecimal.2025.1001.2.129
+|   |   |   .signature.p7s
+|   |   |   ExtendedNumerics.BigDecimal.2025.1001.2.129.nupkg
+|   |   |   README.md
+|   |   |   
+|   |   \---lib
+|   |       +---net45
+|   |       |       ExtendedNumerics.BigDecimal.dll
+|   |       |       ExtendedNumerics.BigDecimal.xml
+|   |       |       
+|   |       +---net46
+|   |       |       ExtendedNumerics.BigDecimal.dll
+|   |       |       ExtendedNumerics.BigDecimal.xml
+|   |       |       
+|   |       +---net472
+|   |       |       ExtendedNumerics.BigDecimal.dll
+|   |       |       ExtendedNumerics.BigDecimal.xml
+|   |       |       
+|   |       +---net48
+|   |       |       ExtendedNumerics.BigDecimal.dll
+|   |       |       ExtendedNumerics.BigDecimal.xml
+|   |       |       
+|   |       +---net5.0
+|   |       |       ExtendedNumerics.BigDecimal.dll
+|   |       |       ExtendedNumerics.BigDecimal.xml
+|   |       |       
+|   |       +---net6.0
+|   |       |       ExtendedNumerics.BigDecimal.dll
+|   |       |       ExtendedNumerics.BigDecimal.xml
+|   |       |       
+|   |       +---net7.0
+|   |       |       ExtendedNumerics.BigDecimal.dll
+|   |       |       ExtendedNumerics.BigDecimal.xml
+|   |       |       
+|   |       +---net8.0
+|   |       |       ExtendedNumerics.BigDecimal.dll
+|   |       |       ExtendedNumerics.BigDecimal.xml
+|   |       |       
+|   |       +---netcoreapp3.1
+|   |       |       ExtendedNumerics.BigDecimal.dll
+|   |       |       ExtendedNumerics.BigDecimal.xml
+|   |       |       
+|   |       +---netstandard2.0
+|   |       |       ExtendedNumerics.BigDecimal.dll
+|   |       |       ExtendedNumerics.BigDecimal.xml
+|   |       |       
+|   |       \---netstandard2.1
+|   |               ExtendedNumerics.BigDecimal.dll
+|   |               ExtendedNumerics.BigDecimal.xml
+|   |               
+|   +---Google.Api.CommonProtos.2.13.0
+|   |   |   .signature.p7s
+|   |   |   Google.Api.CommonProtos.2.13.0.nupkg
+|   |   |   LICENSE
+|   |   |   NuGetIcon.png
+|   |   |   
+|   |   +---build
+|   |   |       Google.Api.CommonProtos.targets
+|   |   |       
+|   |   +---content
+|   |   |   \---protos
+|   |   |       \---google
+|   |   |           +---api
+|   |   |           |       annotations.proto
+|   |   |           |       auth.proto
+|   |   |           |       backend.proto
+|   |   |           |       billing.proto
+|   |   |           |       client.proto
+|   |   |           |       config_change.proto
+|   |   |           |       consumer.proto
+|   |   |           |       context.proto
+|   |   |           |       control.proto
+|   |   |           |       distribution.proto
+|   |   |           |       documentation.proto
+|   |   |           |       endpoint.proto
+|   |   |           |       error_reason.proto
+|   |   |           |       field_behavior.proto
+|   |   |           |       field_info.proto
+|   |   |           |       http.proto
+|   |   |           |       httpbody.proto
+|   |   |           |       label.proto
+|   |   |           |       launch_stage.proto
+|   |   |           |       log.proto
+|   |   |           |       logging.proto
+|   |   |           |       metric.proto
+|   |   |           |       monitored_resource.proto
+|   |   |           |       monitoring.proto
+|   |   |           |       policy.proto
+|   |   |           |       quota.proto
+|   |   |           |       resource.proto
+|   |   |           |       routing.proto
+|   |   |           |       service.proto
+|   |   |           |       source_info.proto
+|   |   |           |       system_parameter.proto
+|   |   |           |       usage.proto
+|   |   |           |       visibility.proto
+|   |   |           |       
+|   |   |           +---rpc
+|   |   |           |   |   code.proto
+|   |   |           |   |   error_details.proto
+|   |   |           |   |   http.proto
+|   |   |           |   |   status.proto
+|   |   |           |   |   
+|   |   |           |   \---context
+|   |   |           |           attribute_context.proto
+|   |   |           |           audit_context.proto
+|   |   |           |           
+|   |   |           \---type
+|   |   |                   calendar_period.proto
+|   |   |                   color.proto
+|   |   |                   date.proto
+|   |   |                   datetime.proto
+|   |   |                   dayofweek.proto
+|   |   |                   decimal.proto
+|   |   |                   expr.proto
+|   |   |                   fraction.proto
+|   |   |                   interval.proto
+|   |   |                   latlng.proto
+|   |   |                   localized_text.proto
+|   |   |                   money.proto
+|   |   |                   month.proto
+|   |   |                   phone_number.proto
+|   |   |                   postal_address.proto
+|   |   |                   quaternion.proto
+|   |   |                   timeofday.proto
+|   |   |                   
+|   |   \---lib
+|   |       +---net461
+|   |       |       Google.Api.CommonProtos.dll
+|   |       |       Google.Api.CommonProtos.pdb
+|   |       |       Google.Api.CommonProtos.xml
+|   |       |       
+|   |       \---netstandard2.0
+|   |               Google.Api.CommonProtos.dll
+|   |               Google.Api.CommonProtos.pdb
+|   |               Google.Api.CommonProtos.xml
+|   |               
+|   +---Google.Protobuf.3.25.1
+|   |   |   .signature.p7s
+|   |   |   Google.Protobuf.3.25.1.nupkg
+|   |   |   
+|   |   \---lib
+|   |       +---net45
+|   |       |       Google.Protobuf.dll
+|   |       |       Google.Protobuf.pdb
+|   |       |       Google.Protobuf.xml
+|   |       |       
+|   |       +---net5.0
+|   |       |       Google.Protobuf.dll
+|   |       |       Google.Protobuf.pdb
+|   |       |       Google.Protobuf.xml
+|   |       |       
+|   |       +---netstandard1.1
+|   |       |       Google.Protobuf.dll
+|   |       |       Google.Protobuf.pdb
+|   |       |       Google.Protobuf.xml
+|   |       |       
+|   |       \---netstandard2.0
+|   |               Google.Protobuf.dll
+|   |               Google.Protobuf.pdb
+|   |               Google.Protobuf.xml
+|   |               
+|   +---Grpc.Core.Api.2.59.0
+|   |   |   .signature.p7s
+|   |   |   Grpc.Core.Api.2.59.0.nupkg
+|   |   |   packageIcon.png
+|   |   |   README.md
+|   |   |   
+|   |   \---lib
+|   |       +---net462
+|   |       |       Grpc.Core.Api.dll
+|   |       |       Grpc.Core.Api.pdb
+|   |       |       Grpc.Core.Api.xml
+|   |       |       
+|   |       +---netstandard2.0
+|   |       |       Grpc.Core.Api.dll
+|   |       |       Grpc.Core.Api.pdb
+|   |       |       Grpc.Core.Api.xml
+|   |       |       
+|   |       \---netstandard2.1
+|   |               Grpc.Core.Api.dll
+|   |               Grpc.Core.Api.pdb
+|   |               Grpc.Core.Api.xml
+|   |               
+|   +---Grpc.Net.Client.2.59.0
+|   |   |   .signature.p7s
+|   |   |   Grpc.Net.Client.2.59.0.nupkg
+|   |   |   packageIcon.png
+|   |   |   README.md
+|   |   |   
+|   |   \---lib
+|   |       +---net462
+|   |       |       Grpc.Net.Client.dll
+|   |       |       Grpc.Net.Client.pdb
+|   |       |       Grpc.Net.Client.xml
+|   |       |       
+|   |       +---net6.0
+|   |       |       Grpc.Net.Client.dll
+|   |       |       Grpc.Net.Client.pdb
+|   |       |       Grpc.Net.Client.xml
+|   |       |       
+|   |       +---net7.0
+|   |       |       Grpc.Net.Client.dll
+|   |       |       Grpc.Net.Client.pdb
+|   |       |       Grpc.Net.Client.xml
+|   |       |       
+|   |       +---net8.0
+|   |       |       Grpc.Net.Client.dll
+|   |       |       Grpc.Net.Client.pdb
+|   |       |       Grpc.Net.Client.xml
+|   |       |       
+|   |       +---netstandard2.0
+|   |       |       Grpc.Net.Client.dll
+|   |       |       Grpc.Net.Client.pdb
+|   |       |       Grpc.Net.Client.xml
+|   |       |       
+|   |       \---netstandard2.1
+|   |               Grpc.Net.Client.dll
+|   |               Grpc.Net.Client.pdb
+|   |               Grpc.Net.Client.xml
+|   |               
+|   +---Grpc.Net.Client.Web.2.71.0
+|   |   |   .signature.p7s
+|   |   |   Grpc.Net.Client.Web.2.71.0.nupkg
+|   |   |   packageIcon.png
+|   |   |   README.md
+|   |   |   
+|   |   \---lib
+|   |       +---net6.0
+|   |       |       Grpc.Net.Client.Web.dll
+|   |       |       Grpc.Net.Client.Web.pdb
+|   |       |       Grpc.Net.Client.Web.xml
+|   |       |       
+|   |       +---net7.0
+|   |       |       Grpc.Net.Client.Web.dll
+|   |       |       Grpc.Net.Client.Web.pdb
+|   |       |       Grpc.Net.Client.Web.xml
+|   |       |       
+|   |       +---net8.0
+|   |       |       Grpc.Net.Client.Web.dll
+|   |       |       Grpc.Net.Client.Web.pdb
+|   |       |       Grpc.Net.Client.Web.xml
+|   |       |       
+|   |       +---netstandard2.0
+|   |       |       Grpc.Net.Client.Web.dll
+|   |       |       Grpc.Net.Client.Web.pdb
+|   |       |       Grpc.Net.Client.Web.xml
+|   |       |       
+|   |       \---netstandard2.1
+|   |               Grpc.Net.Client.Web.dll
+|   |               Grpc.Net.Client.Web.pdb
+|   |               Grpc.Net.Client.Web.xml
+|   |               
+|   +---Grpc.Net.ClientFactory.2.59.0
+|   |   |   .signature.p7s
+|   |   |   Grpc.Net.ClientFactory.2.59.0.nupkg
+|   |   |   packageIcon.png
+|   |   |   README.md
+|   |   |   
+|   |   \---lib
+|   |       +---net6.0
+|   |       |       Grpc.Net.ClientFactory.dll
+|   |       |       Grpc.Net.ClientFactory.pdb
+|   |       |       Grpc.Net.ClientFactory.xml
+|   |       |       
+|   |       +---net7.0
+|   |       |       Grpc.Net.ClientFactory.dll
+|   |       |       Grpc.Net.ClientFactory.pdb
+|   |       |       Grpc.Net.ClientFactory.xml
+|   |       |       
+|   |       +---net8.0
+|   |       |       Grpc.Net.ClientFactory.dll
+|   |       |       Grpc.Net.ClientFactory.pdb
+|   |       |       Grpc.Net.ClientFactory.xml
+|   |       |       
+|   |       +---netstandard2.0
+|   |       |       Grpc.Net.ClientFactory.dll
+|   |       |       Grpc.Net.ClientFactory.pdb
+|   |       |       Grpc.Net.ClientFactory.xml
+|   |       |       
+|   |       \---netstandard2.1
+|   |               Grpc.Net.ClientFactory.dll
+|   |               Grpc.Net.ClientFactory.pdb
+|   |               Grpc.Net.ClientFactory.xml
+|   |               
+|   +---Grpc.Net.Common.2.59.0
+|   |   |   .signature.p7s
+|   |   |   Grpc.Net.Common.2.59.0.nupkg
+|   |   |   packageIcon.png
+|   |   |   
+|   |   \---lib
+|   |       +---net6.0
+|   |       |       Grpc.Net.Common.dll
+|   |       |       Grpc.Net.Common.pdb
+|   |       |       Grpc.Net.Common.xml
+|   |       |       
+|   |       +---net7.0
+|   |       |       Grpc.Net.Common.dll
+|   |       |       Grpc.Net.Common.pdb
+|   |       |       Grpc.Net.Common.xml
+|   |       |       
+|   |       +---net8.0
+|   |       |       Grpc.Net.Common.dll
+|   |       |       Grpc.Net.Common.pdb
+|   |       |       Grpc.Net.Common.xml
+|   |       |       
+|   |       +---netstandard2.0
+|   |       |       Grpc.Net.Common.dll
+|   |       |       Grpc.Net.Common.pdb
+|   |       |       Grpc.Net.Common.xml
+|   |       |       
+|   |       \---netstandard2.1
+|   |               Grpc.Net.Common.dll
+|   |               Grpc.Net.Common.pdb
+|   |               Grpc.Net.Common.xml
+|   |               
+|   +---Grpc.Tools.2.72.0
+|   |   |   .signature.p7s
+|   |   |   Grpc.Tools.2.72.0.nupkg
+|   |   |   packageIcon.png
+|   |   |   README.md
+|   |   |   
+|   |   +---build
+|   |   |   |   Grpc.Tools.props
+|   |   |   |   Grpc.Tools.targets
+|   |   |   |   
+|   |   |   +---native
+|   |   |   |   \---include
+|   |   |   |       \---google
+|   |   |   |           \---protobuf
+|   |   |   |                   any.proto
+|   |   |   |                   api.proto
+|   |   |   |                   descriptor.proto
+|   |   |   |                   duration.proto
+|   |   |   |                   empty.proto
+|   |   |   |                   field_mask.proto
+|   |   |   |                   source_context.proto
+|   |   |   |                   struct.proto
+|   |   |   |                   timestamp.proto
+|   |   |   |                   type.proto
+|   |   |   |                   wrappers.proto
+|   |   |   |                   
+|   |   |   +---_grpc
+|   |   |   |       Grpc.CSharp.xml
+|   |   |   |       _Grpc.Tools.props
+|   |   |   |       _Grpc.Tools.targets
+|   |   |   |       
+|   |   |   \---_protobuf
+|   |   |       |   Google.Protobuf.Tools.props
+|   |   |       |   Google.Protobuf.Tools.targets
+|   |   |       |   Protobuf.CSharp.xml
+|   |   |       |   
+|   |   |       +---net45
+|   |   |       |       Protobuf.MSBuild.dll
+|   |   |       |       Protobuf.MSBuild.pdb
+|   |   |       |       
+|   |   |       \---netstandard1.3
+|   |   |               Protobuf.MSBuild.dll
+|   |   |               Protobuf.MSBuild.pdb
+|   |   |               
+|   |   \---tools
+|   |       +---linux_arm64
+|   |       |       grpc_csharp_plugin
+|   |       |       protoc
+|   |       |       
+|   |       +---linux_x64
+|   |       |       grpc_csharp_plugin
+|   |       |       protoc
+|   |       |       
+|   |       +---linux_x86
+|   |       |       grpc_csharp_plugin
+|   |       |       protoc
+|   |       |       
+|   |       +---macosx_x64
+|   |       |       grpc_csharp_plugin
+|   |       |       protoc
+|   |       |       
+|   |       +---windows_x64
+|   |       |       grpc_csharp_plugin.exe
+|   |       |       protoc.exe
+|   |       |       
+|   |       \---windows_x86
+|   |               grpc_csharp_plugin.exe
+|   |               protoc.exe
+|   |               
+|   +---HarfBuzzSharp.7.3.0.3
+|   |   |   .signature.p7s
+|   |   |   HarfBuzzSharp.7.3.0.3.nupkg
+|   |   |   LICENSE.txt
+|   |   |   THIRD-PARTY-NOTICES.txt
+|   |   |   
+|   |   \---lib
+|   |       +---monoandroid1.0
+|   |       |       HarfBuzzSharp.dll
+|   |       |       HarfBuzzSharp.pdb
+|   |       |       HarfBuzzSharp.xml
+|   |       |       
+|   |       +---net462
+|   |       |       HarfBuzzSharp.dll
+|   |       |       HarfBuzzSharp.pdb
+|   |       |       HarfBuzzSharp.xml
+|   |       |       
+|   |       +---net6.0
+|   |       |       HarfBuzzSharp.dll
+|   |       |       HarfBuzzSharp.pdb
+|   |       |       HarfBuzzSharp.xml
+|   |       |       
+|   |       +---net6.0-android30.0
+|   |       |       HarfBuzzSharp.dll
+|   |       |       HarfBuzzSharp.pdb
+|   |       |       HarfBuzzSharp.xml
+|   |       |       
+|   |       +---net6.0-ios13.6
+|   |       |       HarfBuzzSharp.dll
+|   |       |       HarfBuzzSharp.pdb
+|   |       |       HarfBuzzSharp.xml
+|   |       |       
+|   |       +---net6.0-maccatalyst13.5
+|   |       |       HarfBuzzSharp.dll
+|   |       |       HarfBuzzSharp.pdb
+|   |       |       HarfBuzzSharp.xml
+|   |       |       
+|   |       +---net6.0-macos10.15
+|   |       |       HarfBuzzSharp.dll
+|   |       |       HarfBuzzSharp.pdb
+|   |       |       HarfBuzzSharp.xml
+|   |       |       
+|   |       +---net6.0-tvos13.4
+|   |       |       HarfBuzzSharp.dll
+|   |       |       HarfBuzzSharp.pdb
+|   |       |       HarfBuzzSharp.xml
+|   |       |       
+|   |       +---netcoreapp3.1
+|   |       |       HarfBuzzSharp.dll
+|   |       |       HarfBuzzSharp.pdb
+|   |       |       HarfBuzzSharp.xml
+|   |       |       
+|   |       +---netstandard1.3
+|   |       |       HarfBuzzSharp.dll
+|   |       |       HarfBuzzSharp.pdb
+|   |       |       HarfBuzzSharp.xml
+|   |       |       
+|   |       +---netstandard2.0
+|   |       |       HarfBuzzSharp.dll
+|   |       |       HarfBuzzSharp.pdb
+|   |       |       HarfBuzzSharp.xml
+|   |       |       
+|   |       +---netstandard2.1
+|   |       |       HarfBuzzSharp.dll
+|   |       |       HarfBuzzSharp.pdb
+|   |       |       HarfBuzzSharp.xml
+|   |       |       
+|   |       +---tizen40
+|   |       |       HarfBuzzSharp.dll
+|   |       |       HarfBuzzSharp.pdb
+|   |       |       HarfBuzzSharp.xml
+|   |       |       
+|   |       +---uap10.0.10240
+|   |       |       HarfBuzzSharp.dll
+|   |       |       HarfBuzzSharp.pdb
+|   |       |       HarfBuzzSharp.xml
+|   |       |       
+|   |       +---uap10.0.16299
+|   |       |       HarfBuzzSharp.dll
+|   |       |       HarfBuzzSharp.pdb
+|   |       |       HarfBuzzSharp.xml
+|   |       |       
+|   |       +---xamarinios1.0
+|   |       |       HarfBuzzSharp.dll
+|   |       |       HarfBuzzSharp.pdb
+|   |       |       HarfBuzzSharp.xml
+|   |       |       
+|   |       +---xamarinmac2.0
+|   |       |       HarfBuzzSharp.dll
+|   |       |       HarfBuzzSharp.pdb
+|   |       |       HarfBuzzSharp.xml
+|   |       |       
+|   |       +---xamarintvos1.0
+|   |       |       HarfBuzzSharp.dll
+|   |       |       HarfBuzzSharp.pdb
+|   |       |       HarfBuzzSharp.xml
+|   |       |       
+|   |       \---xamarinwatchos1.0
+|   |               HarfBuzzSharp.dll
+|   |               HarfBuzzSharp.pdb
+|   |               HarfBuzzSharp.xml
+|   |               
+|   +---HarfBuzzSharp.NativeAssets.Linux.7.3.0.3
+|   |   |   .signature.p7s
+|   |   |   HarfBuzzSharp.NativeAssets.Linux.7.3.0.3.nupkg
+|   |   |   LICENSE.txt
+|   |   |   THIRD-PARTY-NOTICES.txt
+|   |   |   
+|   |   +---build
+|   |   |   \---net462
+|   |   |           HarfBuzzSharp.NativeAssets.Linux.targets
+|   |   |           
+|   |   +---buildTransitive
+|   |   |   \---net462
+|   |   |           HarfBuzzSharp.NativeAssets.Linux.targets
+|   |   |           
+|   |   +---lib
+|   |   |   +---net462
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---net6.0
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---netcoreapp3.1
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   \---netstandard1.3
+|   |   |           _._
+|   |   |           
+|   |   \---runtimes
+|   |       +---linux-arm
+|   |       |   \---native
+|   |       |           libHarfBuzzSharp.so
+|   |       |           
+|   |       +---linux-arm64
+|   |       |   \---native
+|   |       |           libHarfBuzzSharp.so
+|   |       |           
+|   |       +---linux-musl-x64
+|   |       |   \---native
+|   |       |           libHarfBuzzSharp.so
+|   |       |           
+|   |       \---linux-x64
+|   |           \---native
+|   |                   libHarfBuzzSharp.so
+|   |                   
+|   +---HarfBuzzSharp.NativeAssets.macOS.7.3.0.3
+|   |   |   .signature.p7s
+|   |   |   HarfBuzzSharp.NativeAssets.macOS.7.3.0.3.nupkg
+|   |   |   LICENSE.txt
+|   |   |   THIRD-PARTY-NOTICES.txt
+|   |   |   
+|   |   +---build
+|   |   |   +---net462
+|   |   |   |       HarfBuzzSharp.NativeAssets.macOS.targets
+|   |   |   |       
+|   |   |   +---net6.0-macos10.15
+|   |   |   |       HarfBuzzSharp.NativeAssets.macOS.targets
+|   |   |   |       
+|   |   |   \---xamarinmac2.0
+|   |   |           HarfBuzzSharp.NativeAssets.macOS.targets
+|   |   |           
+|   |   +---buildTransitive
+|   |   |   +---net462
+|   |   |   |       HarfBuzzSharp.NativeAssets.macOS.targets
+|   |   |   |       
+|   |   |   +---net6.0-macos10.15
+|   |   |   |       HarfBuzzSharp.NativeAssets.macOS.targets
+|   |   |   |       
+|   |   |   \---xamarinmac2.0
+|   |   |           HarfBuzzSharp.NativeAssets.macOS.targets
+|   |   |           
+|   |   +---lib
+|   |   |   +---net462
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---net6.0
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---net6.0-macos10.15
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---netcoreapp3.1
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---netstandard1.3
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   \---xamarinmac2.0
+|   |   |           _._
+|   |   |           
+|   |   \---runtimes
+|   |       \---osx
+|   |           \---native
+|   |                   libHarfBuzzSharp.dylib
+|   |                   
+|   +---HarfBuzzSharp.NativeAssets.Win32.7.3.0.3
+|   |   |   .signature.p7s
+|   |   |   HarfBuzzSharp.NativeAssets.Win32.7.3.0.3.nupkg
+|   |   |   LICENSE.txt
+|   |   |   THIRD-PARTY-NOTICES.txt
+|   |   |   
+|   |   +---build
+|   |   |   \---net462
+|   |   |           HarfBuzzSharp.NativeAssets.Win32.targets
+|   |   |           
+|   |   +---buildTransitive
+|   |   |   \---net462
+|   |   |           HarfBuzzSharp.NativeAssets.Win32.targets
+|   |   |           
+|   |   +---lib
+|   |   |   +---net462
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---net6.0
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---netcoreapp3.1
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   \---netstandard1.3
+|   |   |           _._
+|   |   |           
+|   |   \---runtimes
+|   |       +---win-arm64
+|   |       |   \---native
+|   |       |           libHarfBuzzSharp.dll
+|   |       |           
+|   |       +---win-x64
+|   |       |   \---native
+|   |       |           libHarfBuzzSharp.dll
+|   |       |           
+|   |       \---win-x86
+|   |           \---native
+|   |                   libHarfBuzzSharp.dll
+|   |                   
+|   +---HtmlAgilityPack.1.12.1
+|   |   |   .signature.p7s
+|   |   |   HtmlAgilityPack.1.12.1.nupkg
+|   |   |   readme.md
+|   |   |   
+|   |   \---lib
+|   |       +---Net35
+|   |       |       HtmlAgilityPack.dll
+|   |       |       HtmlAgilityPack.pdb
+|   |       |       HtmlAgilityPack.xml
+|   |       |       
+|   |       +---Net40
+|   |       |       HtmlAgilityPack.dll
+|   |       |       HtmlAgilityPack.pdb
+|   |       |       HtmlAgilityPack.XML
+|   |       |       
+|   |       +---Net40-client
+|   |       |       HtmlAgilityPack.dll
+|   |       |       HtmlAgilityPack.pdb
+|   |       |       HtmlAgilityPack.xml
+|   |       |       
+|   |       +---Net45
+|   |       |       HtmlAgilityPack.dll
+|   |       |       HtmlAgilityPack.pdb
+|   |       |       HtmlAgilityPack.XML
+|   |       |       
+|   |       +---net8.0
+|   |       |       HtmlAgilityPack.deps.json
+|   |       |       HtmlAgilityPack.dll
+|   |       |       HtmlAgilityPack.pdb
+|   |       |       HtmlAgilityPack.xml
+|   |       |       
+|   |       +---NetCore45
+|   |       |       HtmlAgilityPack.dll
+|   |       |       HtmlAgilityPack.pdb
+|   |       |       HtmlAgilityPack.XML
+|   |       |       
+|   |       +---netstandard2.0
+|   |       |       HtmlAgilityPack.deps.json
+|   |       |       HtmlAgilityPack.dll
+|   |       |       HtmlAgilityPack.pdb
+|   |       |       HtmlAgilityPack.xml
+|   |       |       
+|   |       +---portable-net45+netcore45+wp8+MonoAndroid+MonoTouch
+|   |       |       HtmlAgilityPack.dll
+|   |       |       HtmlAgilityPack.pdb
+|   |       |       HtmlAgilityPack.XML
+|   |       |       
+|   |       +---portable-net45+netcore45+wpa81+wp8+MonoAndroid+MonoTouch
+|   |       |       HtmlAgilityPack.dll
+|   |       |       HtmlAgilityPack.pdb
+|   |       |       HtmlAgilityPack.XML
+|   |       |       
+|   |       \---uap10.0
+|   |               HtmlAgilityPack.dll
+|   |               HtmlAgilityPack.pdb
+|   |               HtmlAgilityPack.pri
+|   |               HtmlAgilityPack.XML
+|   |               
+|   +---MathNet.Numerics.Signed.5.0.0
+|   |   |   .signature.p7s
+|   |   |   icon.png
+|   |   |   MathNet.Numerics.Signed.5.0.0.nupkg
+|   |   |   
+|   |   \---lib
+|   |       +---net461
+|   |       |       MathNet.Numerics.dll
+|   |       |       MathNet.Numerics.xml
+|   |       |       
+|   |       +---net48
+|   |       |       MathNet.Numerics.dll
+|   |       |       MathNet.Numerics.xml
+|   |       |       
+|   |       +---net5.0
+|   |       |       MathNet.Numerics.dll
+|   |       |       MathNet.Numerics.xml
+|   |       |       
+|   |       +---net6.0
+|   |       |       MathNet.Numerics.dll
+|   |       |       MathNet.Numerics.xml
+|   |       |       
+|   |       \---netstandard2.0
+|   |               MathNet.Numerics.dll
+|   |               MathNet.Numerics.xml
+|   |               
+|   +---Microsoft.Bcl.AsyncInterfaces.9.0.5
+|   |   |   .signature.p7s
+|   |   |   Icon.png
+|   |   |   LICENSE.TXT
+|   |   |   Microsoft.Bcl.AsyncInterfaces.9.0.5.nupkg
+|   |   |   PACKAGE.md
+|   |   |   THIRD-PARTY-NOTICES.TXT
+|   |   |   useSharedDesignerContext.txt
+|   |   |   
+|   |   +---buildTransitive
+|   |   |   +---net461
+|   |   |   |       Microsoft.Bcl.AsyncInterfaces.targets
+|   |   |   |       
+|   |   |   +---net462
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---net8.0
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   \---netcoreapp2.0
+|   |   |           Microsoft.Bcl.AsyncInterfaces.targets
+|   |   |           
+|   |   \---lib
+|   |       +---net462
+|   |       |       Microsoft.Bcl.AsyncInterfaces.dll
+|   |       |       Microsoft.Bcl.AsyncInterfaces.xml
+|   |       |       
+|   |       +---netstandard2.0
+|   |       |       Microsoft.Bcl.AsyncInterfaces.dll
+|   |       |       Microsoft.Bcl.AsyncInterfaces.xml
+|   |       |       
+|   |       \---netstandard2.1
+|   |               Microsoft.Bcl.AsyncInterfaces.dll
+|   |               Microsoft.Bcl.AsyncInterfaces.xml
+|   |               
+|   +---Microsoft.Extensions.DependencyInjection.6.0.0
+|   |   |   .signature.p7s
+|   |   |   Icon.png
+|   |   |   LICENSE.TXT
+|   |   |   Microsoft.Extensions.DependencyInjection.6.0.0.nupkg
+|   |   |   THIRD-PARTY-NOTICES.TXT
+|   |   |   useSharedDesignerContext.txt
+|   |   |   
+|   |   +---buildTransitive
+|   |   |   +---netcoreapp2.0
+|   |   |   |       Microsoft.Extensions.DependencyInjection.targets
+|   |   |   |       
+|   |   |   \---netcoreapp3.1
+|   |   |           _._
+|   |   |           
+|   |   \---lib
+|   |       +---net461
+|   |       |       Microsoft.Extensions.DependencyInjection.dll
+|   |       |       Microsoft.Extensions.DependencyInjection.xml
+|   |       |       
+|   |       +---net6.0
+|   |       |       Microsoft.Extensions.DependencyInjection.dll
+|   |       |       Microsoft.Extensions.DependencyInjection.xml
+|   |       |       
+|   |       +---netstandard2.0
+|   |       |       Microsoft.Extensions.DependencyInjection.dll
+|   |       |       Microsoft.Extensions.DependencyInjection.xml
+|   |       |       
+|   |       \---netstandard2.1
+|   |               Microsoft.Extensions.DependencyInjection.dll
+|   |               Microsoft.Extensions.DependencyInjection.xml
+|   |               
+|   +---Microsoft.Extensions.DependencyInjection.Abstractions.6.0.0
+|   |   |   .signature.p7s
+|   |   |   Icon.png
+|   |   |   LICENSE.TXT
+|   |   |   Microsoft.Extensions.DependencyInjection.Abstractions.6.0.0.nupkg
+|   |   |   THIRD-PARTY-NOTICES.TXT
+|   |   |   useSharedDesignerContext.txt
+|   |   |   
+|   |   +---buildTransitive
+|   |   |   +---netcoreapp2.0
+|   |   |   |       Microsoft.Extensions.DependencyInjection.Abstractions.targets
+|   |   |   |       
+|   |   |   \---netcoreapp3.1
+|   |   |           _._
+|   |   |           
+|   |   \---lib
+|   |       +---net461
+|   |       |       Microsoft.Extensions.DependencyInjection.Abstractions.dll
+|   |       |       Microsoft.Extensions.DependencyInjection.Abstractions.xml
+|   |       |       
+|   |       +---net6.0
+|   |       |       Microsoft.Extensions.DependencyInjection.Abstractions.dll
+|   |       |       Microsoft.Extensions.DependencyInjection.Abstractions.xml
+|   |       |       
+|   |       +---netstandard2.0
+|   |       |       Microsoft.Extensions.DependencyInjection.Abstractions.dll
+|   |       |       Microsoft.Extensions.DependencyInjection.Abstractions.xml
+|   |       |       
+|   |       \---netstandard2.1
+|   |               Microsoft.Extensions.DependencyInjection.Abstractions.dll
+|   |               Microsoft.Extensions.DependencyInjection.Abstractions.xml
+|   |               
+|   +---Microsoft.Extensions.Http.6.0.0
+|   |   |   .signature.p7s
+|   |   |   Icon.png
+|   |   |   LICENSE.TXT
+|   |   |   Microsoft.Extensions.Http.6.0.0.nupkg
+|   |   |   THIRD-PARTY-NOTICES.TXT
+|   |   |   useSharedDesignerContext.txt
+|   |   |   
+|   |   \---lib
+|   |       +---net461
+|   |       |       Microsoft.Extensions.Http.dll
+|   |       |       Microsoft.Extensions.Http.xml
+|   |       |       
+|   |       \---netstandard2.0
+|   |               Microsoft.Extensions.Http.dll
+|   |               Microsoft.Extensions.Http.xml
+|   |               
+|   +---Microsoft.Extensions.Logging.6.0.0
+|   |   |   .signature.p7s
+|   |   |   Icon.png
+|   |   |   LICENSE.TXT
+|   |   |   Microsoft.Extensions.Logging.6.0.0.nupkg
+|   |   |   THIRD-PARTY-NOTICES.TXT
+|   |   |   useSharedDesignerContext.txt
+|   |   |   
+|   |   \---lib
+|   |       +---net461
+|   |       |       Microsoft.Extensions.Logging.dll
+|   |       |       Microsoft.Extensions.Logging.xml
+|   |       |       
+|   |       +---netstandard2.0
+|   |       |       Microsoft.Extensions.Logging.dll
+|   |       |       Microsoft.Extensions.Logging.xml
+|   |       |       
+|   |       \---netstandard2.1
+|   |               Microsoft.Extensions.Logging.dll
+|   |               Microsoft.Extensions.Logging.xml
+|   |               
+|   +---Microsoft.Extensions.Logging.Abstractions.6.0.0
+|   |   |   .signature.p7s
+|   |   |   Icon.png
+|   |   |   LICENSE.TXT
+|   |   |   Microsoft.Extensions.Logging.Abstractions.6.0.0.nupkg
+|   |   |   THIRD-PARTY-NOTICES.TXT
+|   |   |   useSharedDesignerContext.txt
+|   |   |   
+|   |   +---analyzers
+|   |   |   \---dotnet
+|   |   |       +---roslyn3.11
+|   |   |       |   \---cs
+|   |   |       |       |   Microsoft.Extensions.Logging.Generators.dll
+|   |   |       |       |   
+|   |   |       |       +---cs
+|   |   |       |       |       Microsoft.Extensions.Logging.Generators.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---de
+|   |   |       |       |       Microsoft.Extensions.Logging.Generators.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---es
+|   |   |       |       |       Microsoft.Extensions.Logging.Generators.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---fr
+|   |   |       |       |       Microsoft.Extensions.Logging.Generators.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---it
+|   |   |       |       |       Microsoft.Extensions.Logging.Generators.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---ja
+|   |   |       |       |       Microsoft.Extensions.Logging.Generators.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---ko
+|   |   |       |       |       Microsoft.Extensions.Logging.Generators.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---pl
+|   |   |       |       |       Microsoft.Extensions.Logging.Generators.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---pt-BR
+|   |   |       |       |       Microsoft.Extensions.Logging.Generators.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---ru
+|   |   |       |       |       Microsoft.Extensions.Logging.Generators.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---tr
+|   |   |       |       |       Microsoft.Extensions.Logging.Generators.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---zh-Hans
+|   |   |       |       |       Microsoft.Extensions.Logging.Generators.resources.dll
+|   |   |       |       |       
+|   |   |       |       \---zh-Hant
+|   |   |       |               Microsoft.Extensions.Logging.Generators.resources.dll
+|   |   |       |               
+|   |   |       \---roslyn4.0
+|   |   |           \---cs
+|   |   |               |   Microsoft.Extensions.Logging.Generators.dll
+|   |   |               |   
+|   |   |               +---cs
+|   |   |               |       Microsoft.Extensions.Logging.Generators.resources.dll
+|   |   |               |       
+|   |   |               +---de
+|   |   |               |       Microsoft.Extensions.Logging.Generators.resources.dll
+|   |   |               |       
+|   |   |               +---es
+|   |   |               |       Microsoft.Extensions.Logging.Generators.resources.dll
+|   |   |               |       
+|   |   |               +---fr
+|   |   |               |       Microsoft.Extensions.Logging.Generators.resources.dll
+|   |   |               |       
+|   |   |               +---it
+|   |   |               |       Microsoft.Extensions.Logging.Generators.resources.dll
+|   |   |               |       
+|   |   |               +---ja
+|   |   |               |       Microsoft.Extensions.Logging.Generators.resources.dll
+|   |   |               |       
+|   |   |               +---ko
+|   |   |               |       Microsoft.Extensions.Logging.Generators.resources.dll
+|   |   |               |       
+|   |   |               +---pl
+|   |   |               |       Microsoft.Extensions.Logging.Generators.resources.dll
+|   |   |               |       
+|   |   |               +---pt-BR
+|   |   |               |       Microsoft.Extensions.Logging.Generators.resources.dll
+|   |   |               |       
+|   |   |               +---ru
+|   |   |               |       Microsoft.Extensions.Logging.Generators.resources.dll
+|   |   |               |       
+|   |   |               +---tr
+|   |   |               |       Microsoft.Extensions.Logging.Generators.resources.dll
+|   |   |               |       
+|   |   |               +---zh-Hans
+|   |   |               |       Microsoft.Extensions.Logging.Generators.resources.dll
+|   |   |               |       
+|   |   |               \---zh-Hant
+|   |   |                       Microsoft.Extensions.Logging.Generators.resources.dll
+|   |   |                       
+|   |   +---build
+|   |   |       Microsoft.Extensions.Logging.Abstractions.targets
+|   |   |       
+|   |   +---buildTransitive
+|   |   |   +---netcoreapp2.0
+|   |   |   |       Microsoft.Extensions.Logging.Abstractions.targets
+|   |   |   |       
+|   |   |   \---netcoreapp3.1
+|   |   |           _._
+|   |   |           
+|   |   \---lib
+|   |       +---net461
+|   |       |       Microsoft.Extensions.Logging.Abstractions.dll
+|   |       |       Microsoft.Extensions.Logging.Abstractions.xml
+|   |       |       
+|   |       +---net6.0
+|   |       |       Microsoft.Extensions.Logging.Abstractions.dll
+|   |       |       Microsoft.Extensions.Logging.Abstractions.xml
+|   |       |       
+|   |       \---netstandard2.0
+|   |               Microsoft.Extensions.Logging.Abstractions.dll
+|   |               Microsoft.Extensions.Logging.Abstractions.xml
+|   |               
+|   +---Microsoft.Extensions.Options.6.0.0
+|   |   |   .signature.p7s
+|   |   |   Icon.png
+|   |   |   LICENSE.TXT
+|   |   |   Microsoft.Extensions.Options.6.0.0.nupkg
+|   |   |   THIRD-PARTY-NOTICES.TXT
+|   |   |   useSharedDesignerContext.txt
+|   |   |   
+|   |   \---lib
+|   |       +---net461
+|   |       |       Microsoft.Extensions.Options.dll
+|   |       |       Microsoft.Extensions.Options.xml
+|   |       |       
+|   |       +---netstandard2.0
+|   |       |       Microsoft.Extensions.Options.dll
+|   |       |       Microsoft.Extensions.Options.xml
+|   |       |       
+|   |       \---netstandard2.1
+|   |               Microsoft.Extensions.Options.dll
+|   |               Microsoft.Extensions.Options.xml
+|   |               
+|   +---Microsoft.Extensions.Primitives.6.0.0
+|   |   |   .signature.p7s
+|   |   |   Icon.png
+|   |   |   LICENSE.TXT
+|   |   |   Microsoft.Extensions.Primitives.6.0.0.nupkg
+|   |   |   THIRD-PARTY-NOTICES.TXT
+|   |   |   useSharedDesignerContext.txt
+|   |   |   
+|   |   +---buildTransitive
+|   |   |   +---netcoreapp2.0
+|   |   |   |       Microsoft.Extensions.Primitives.targets
+|   |   |   |       
+|   |   |   \---netcoreapp3.1
+|   |   |           _._
+|   |   |           
+|   |   \---lib
+|   |       +---net461
+|   |       |       Microsoft.Extensions.Primitives.dll
+|   |       |       Microsoft.Extensions.Primitives.xml
+|   |       |       
+|   |       +---net6.0
+|   |       |       Microsoft.Extensions.Primitives.dll
+|   |       |       Microsoft.Extensions.Primitives.xml
+|   |       |       
+|   |       +---netcoreapp3.1
+|   |       |       Microsoft.Extensions.Primitives.dll
+|   |       |       Microsoft.Extensions.Primitives.xml
+|   |       |       
+|   |       \---netstandard2.0
+|   |               Microsoft.Extensions.Primitives.dll
+|   |               Microsoft.Extensions.Primitives.xml
+|   |               
+|   +---Microsoft.IO.RecyclableMemoryStream.3.0.0
+|   |   |   .signature.p7s
+|   |   |   Microsoft.IO.RecyclableMemoryStream.3.0.0.nupkg
+|   |   |   README.md
+|   |   |   
+|   |   \---lib
+|   |       +---net6.0
+|   |       |       Microsoft.IO.RecyclableMemoryStream.dll
+|   |       |       Microsoft.IO.RecyclableMemoryStream.xml
+|   |       |       
+|   |       +---netstandard2.0
+|   |       |       Microsoft.IO.RecyclableMemoryStream.dll
+|   |       |       Microsoft.IO.RecyclableMemoryStream.xml
+|   |       |       
+|   |       \---netstandard2.1
+|   |               Microsoft.IO.RecyclableMemoryStream.dll
+|   |               Microsoft.IO.RecyclableMemoryStream.xml
+|   |               
+|   +---Newtonsoft.Json.13.0.3
+|   |   |   .signature.p7s
+|   |   |   LICENSE.md
+|   |   |   Newtonsoft.Json.13.0.3.nupkg
+|   |   |   packageIcon.png
+|   |   |   README.md
+|   |   |   
+|   |   \---lib
+|   |       +---net20
+|   |       |       Newtonsoft.Json.dll
+|   |       |       Newtonsoft.Json.xml
+|   |       |       
+|   |       +---net35
+|   |       |       Newtonsoft.Json.dll
+|   |       |       Newtonsoft.Json.xml
+|   |       |       
+|   |       +---net40
+|   |       |       Newtonsoft.Json.dll
+|   |       |       Newtonsoft.Json.xml
+|   |       |       
+|   |       +---net45
+|   |       |       Newtonsoft.Json.dll
+|   |       |       Newtonsoft.Json.xml
+|   |       |       
+|   |       +---net6.0
+|   |       |       Newtonsoft.Json.dll
+|   |       |       Newtonsoft.Json.xml
+|   |       |       
+|   |       +---netstandard1.0
+|   |       |       Newtonsoft.Json.dll
+|   |       |       Newtonsoft.Json.xml
+|   |       |       
+|   |       +---netstandard1.3
+|   |       |       Newtonsoft.Json.dll
+|   |       |       Newtonsoft.Json.xml
+|   |       |       
+|   |       \---netstandard2.0
+|   |               Newtonsoft.Json.dll
+|   |               Newtonsoft.Json.xml
+|   |               
+|   +---NPOI.2.7.3
+|   |   |   .signature.p7s
+|   |   |   LICENSE
+|   |   |   NPOI.2.7.3.nupkg
+|   |   |   README.md
+|   |   |   
+|   |   +---lib
+|   |   |   +---net472
+|   |   |   |       NPOI.Core.dll
+|   |   |   |       NPOI.Core.pdb
+|   |   |   |       NPOI.Core.xml
+|   |   |   |       NPOI.OOXML.dll
+|   |   |   |       NPOI.OOXML.pdb
+|   |   |   |       NPOI.OOXML.xml
+|   |   |   |       NPOI.OpenXml4Net.dll
+|   |   |   |       NPOI.OpenXml4Net.pdb
+|   |   |   |       NPOI.OpenXml4Net.xml
+|   |   |   |       NPOI.OpenXmlFormats.dll
+|   |   |   |       NPOI.OpenXmlFormats.pdb
+|   |   |   |       NPOI.OpenXmlFormats.xml
+|   |   |   |       
+|   |   |   +---net8.0
+|   |   |   |       NPOI.Core.dll
+|   |   |   |       NPOI.Core.pdb
+|   |   |   |       NPOI.Core.xml
+|   |   |   |       NPOI.OOXML.dll
+|   |   |   |       NPOI.OOXML.pdb
+|   |   |   |       NPOI.OOXML.xml
+|   |   |   |       NPOI.OpenXml4Net.dll
+|   |   |   |       NPOI.OpenXml4Net.pdb
+|   |   |   |       NPOI.OpenXml4Net.xml
+|   |   |   |       NPOI.OpenXmlFormats.dll
+|   |   |   |       NPOI.OpenXmlFormats.pdb
+|   |   |   |       NPOI.OpenXmlFormats.xml
+|   |   |   |       
+|   |   |   +---netstandard2.0
+|   |   |   |       NPOI.Core.dll
+|   |   |   |       NPOI.Core.pdb
+|   |   |   |       NPOI.Core.xml
+|   |   |   |       NPOI.OOXML.dll
+|   |   |   |       NPOI.OOXML.pdb
+|   |   |   |       NPOI.OOXML.xml
+|   |   |   |       NPOI.OpenXml4Net.dll
+|   |   |   |       NPOI.OpenXml4Net.pdb
+|   |   |   |       NPOI.OpenXml4Net.xml
+|   |   |   |       NPOI.OpenXmlFormats.dll
+|   |   |   |       NPOI.OpenXmlFormats.pdb
+|   |   |   |       NPOI.OpenXmlFormats.xml
+|   |   |   |       
+|   |   |   \---netstandard2.1
+|   |   |           NPOI.Core.dll
+|   |   |           NPOI.Core.pdb
+|   |   |           NPOI.Core.xml
+|   |   |           NPOI.OOXML.dll
+|   |   |           NPOI.OOXML.pdb
+|   |   |           NPOI.OOXML.xml
+|   |   |           NPOI.OpenXml4Net.dll
+|   |   |           NPOI.OpenXml4Net.pdb
+|   |   |           NPOI.OpenXml4Net.xml
+|   |   |           NPOI.OpenXmlFormats.dll
+|   |   |           NPOI.OpenXmlFormats.pdb
+|   |   |           NPOI.OpenXmlFormats.xml
+|   |   |           
+|   |   \---logo
+|   |           120_120.jpg
+|   |           240_240.png
+|   |           32_32.jpg
+|   |           60_60.jpg
+|   |           
+|   +---OpenTK.3.3.1
+|   |   |   .signature.p7s
+|   |   |   OpenTK.3.3.1.nupkg
+|   |   |   
+|   |   +---content
+|   |   |       OpenTK.dll.config
+|   |   |       
+|   |   \---lib
+|   |       \---net20
+|   |               OpenTK.dll
+|   |               OpenTK.pdb
+|   |               OpenTK.xml
+|   |               
+|   +---OpenTK.GLControl.3.1.0
+|   |   |   .signature.p7s
+|   |   |   OpenTK.GLControl.3.1.0.nupkg
+|   |   |   
+|   |   \---lib
+|   |       \---net20
+|   |               OpenTK.GLControl.dll
+|   |               OpenTK.GLControl.pdb
+|   |               OpenTK.GLControl.xml
+|   |               
+|   +---OpenTK.GLWpfControl.3.3.0
+|   |   |   .signature.p7s
+|   |   |   OpenTK.GLWpfControl.3.3.0.nupkg
+|   |   |   
+|   |   \---lib
+|   |       \---net452
+|   |               GLWpfControl.dll
+|   |               GLWpfControl.pdb
+|   |               
+|   +---ScottPlot.4.1.71
+|   |   |   .signature.p7s
+|   |   |   icon.ico
+|   |   |   icon.png
+|   |   |   README.md
+|   |   |   ScottPlot.4.1.71.nupkg
+|   |   |   
+|   |   \---lib
+|   |       +---net462
+|   |       |       ScottPlot.dll
+|   |       |       ScottPlot.xml
+|   |       |       
+|   |       +---net6.0
+|   |       |       ScottPlot.dll
+|   |       |       ScottPlot.xml
+|   |       |       
+|   |       \---netstandard2.0
+|   |               ScottPlot.dll
+|   |               ScottPlot.xml
+|   |               
+|   +---ScottPlot.WPF.4.1.71
+|   |   |   .signature.p7s
+|   |   |   icon.png
+|   |   |   README.md
+|   |   |   ScottPlot.WPF.4.1.71.nupkg
+|   |   |   
+|   |   +---lib
+|   |   |   +---net461
+|   |   |   |       ScottPlot.WPF.dll
+|   |   |   |       
+|   |   |   +---net472
+|   |   |   |       ScottPlot.WPF.dll
+|   |   |   |       
+|   |   |   +---net48
+|   |   |   |       ScottPlot.WPF.dll
+|   |   |   |       
+|   |   |   +---net6.0-windows7.0
+|   |   |   |       ScottPlot.WPF.dll
+|   |   |   |       
+|   |   |   \---netcoreapp3.1
+|   |   |           ScottPlot.WPF.dll
+|   |   |           
+|   |   \---tools
+|   |           VisualStudioToolsManifest.xml
+|   |           
+|   +---Selenium.WebDriver.4.33.0
+|   |   |   .signature.p7s
+|   |   |   icon.png
+|   |   |   README.md
+|   |   |   Selenium.WebDriver.4.33.0.nupkg
+|   |   |   
+|   |   +---build
+|   |   |       Selenium.WebDriver.targets
+|   |   |       
+|   |   +---buildTransitive
+|   |   |       Selenium.WebDriver.targets
+|   |   |       
+|   |   +---lib
+|   |   |   +---net8.0
+|   |   |   |       WebDriver.dll
+|   |   |   |       WebDriver.xml
+|   |   |   |       
+|   |   |   \---netstandard2.0
+|   |   |           WebDriver.dll
+|   |   |           WebDriver.xml
+|   |   |           
+|   |   \---manager
+|   |       +---linux
+|   |       |       selenium-manager
+|   |       |       
+|   |       +---macos
+|   |       |       selenium-manager
+|   |       |       
+|   |       \---windows
+|   |               selenium-manager.exe
+|   |               
+|   +---SharpZipLib.1.4.2
+|   |   |   .signature.p7s
+|   |   |   SharpZipLib.1.4.2.nupkg
+|   |   |   
+|   |   +---images
+|   |   |       sharpziplib-nuget-256x256.png
+|   |   |       
+|   |   \---lib
+|   |       +---net6.0
+|   |       |       ICSharpCode.SharpZipLib.dll
+|   |       |       ICSharpCode.SharpZipLib.pdb
+|   |       |       ICSharpCode.SharpZipLib.xml
+|   |       |       
+|   |       +---netstandard2.0
+|   |       |       ICSharpCode.SharpZipLib.dll
+|   |       |       ICSharpCode.SharpZipLib.pdb
+|   |       |       ICSharpCode.SharpZipLib.xml
+|   |       |       
+|   |       \---netstandard2.1
+|   |               ICSharpCode.SharpZipLib.dll
+|   |               ICSharpCode.SharpZipLib.pdb
+|   |               ICSharpCode.SharpZipLib.xml
+|   |               
+|   +---SixLabors.Fonts.1.0.1
+|   |   |   .signature.p7s
+|   |   |   SixLabors.Fonts.1.0.1.nupkg
+|   |   |   sixlabors.fonts.128.png
+|   |   |   
+|   |   \---lib
+|   |       +---netcoreapp3.1
+|   |       |       SixLabors.Fonts.dll
+|   |       |       SixLabors.Fonts.xml
+|   |       |       
+|   |       +---netstandard2.0
+|   |       |       SixLabors.Fonts.dll
+|   |       |       SixLabors.Fonts.xml
+|   |       |       
+|   |       \---netstandard2.1
+|   |               SixLabors.Fonts.dll
+|   |               SixLabors.Fonts.xml
+|   |               
+|   +---SixLabors.ImageSharp.2.1.10
+|   |   |   .signature.p7s
+|   |   |   sixlabors.imagesharp.128.png
+|   |   |   SixLabors.ImageSharp.2.1.10.nupkg
+|   |   |   
+|   |   \---lib
+|   |       +---net472
+|   |       |       SixLabors.ImageSharp.dll
+|   |       |       SixLabors.ImageSharp.xml
+|   |       |       
+|   |       +---netcoreapp2.1
+|   |       |       SixLabors.ImageSharp.dll
+|   |       |       SixLabors.ImageSharp.xml
+|   |       |       
+|   |       +---netcoreapp3.1
+|   |       |       SixLabors.ImageSharp.dll
+|   |       |       SixLabors.ImageSharp.xml
+|   |       |       
+|   |       +---netstandard2.0
+|   |       |       SixLabors.ImageSharp.dll
+|   |       |       SixLabors.ImageSharp.xml
+|   |       |       
+|   |       \---netstandard2.1
+|   |               SixLabors.ImageSharp.dll
+|   |               SixLabors.ImageSharp.xml
+|   |               
+|   +---SkiaSharp.2.88.9
+|   |   |   .signature.p7s
+|   |   |   LICENSE.txt
+|   |   |   SkiaSharp.2.88.9.nupkg
+|   |   |   THIRD-PARTY-NOTICES.txt
+|   |   |   
+|   |   +---interactive-extensions
+|   |   |   \---dotnet
+|   |   |           SkiaSharp.DotNet.Interactive.dll
+|   |   |           
+|   |   \---lib
+|   |       +---monoandroid1.0
+|   |       |       SkiaSharp.dll
+|   |       |       SkiaSharp.pdb
+|   |       |       SkiaSharp.xml
+|   |       |       
+|   |       +---net462
+|   |       |       SkiaSharp.dll
+|   |       |       SkiaSharp.pdb
+|   |       |       SkiaSharp.xml
+|   |       |       
+|   |       +---net6.0
+|   |       |       SkiaSharp.dll
+|   |       |       SkiaSharp.pdb
+|   |       |       SkiaSharp.xml
+|   |       |       
+|   |       +---net6.0-android30.0
+|   |       |       SkiaSharp.dll
+|   |       |       SkiaSharp.pdb
+|   |       |       SkiaSharp.xml
+|   |       |       
+|   |       +---net6.0-ios13.6
+|   |       |       SkiaSharp.dll
+|   |       |       SkiaSharp.pdb
+|   |       |       SkiaSharp.xml
+|   |       |       
+|   |       +---net6.0-maccatalyst13.5
+|   |       |       SkiaSharp.dll
+|   |       |       SkiaSharp.pdb
+|   |       |       SkiaSharp.xml
+|   |       |       
+|   |       +---net6.0-macos10.15
+|   |       |       SkiaSharp.dll
+|   |       |       SkiaSharp.pdb
+|   |       |       SkiaSharp.xml
+|   |       |       
+|   |       +---net6.0-tizen7.0
+|   |       |       SkiaSharp.dll
+|   |       |       SkiaSharp.pdb
+|   |       |       SkiaSharp.xml
+|   |       |       
+|   |       +---net6.0-tvos13.4
+|   |       |       SkiaSharp.dll
+|   |       |       SkiaSharp.pdb
+|   |       |       SkiaSharp.xml
+|   |       |       
+|   |       +---netcoreapp3.1
+|   |       |       SkiaSharp.dll
+|   |       |       SkiaSharp.pdb
+|   |       |       SkiaSharp.xml
+|   |       |       
+|   |       +---netstandard1.3
+|   |       |       SkiaSharp.dll
+|   |       |       SkiaSharp.pdb
+|   |       |       SkiaSharp.xml
+|   |       |       
+|   |       +---netstandard2.0
+|   |       |       SkiaSharp.dll
+|   |       |       SkiaSharp.pdb
+|   |       |       SkiaSharp.xml
+|   |       |       
+|   |       +---netstandard2.1
+|   |       |       SkiaSharp.dll
+|   |       |       SkiaSharp.pdb
+|   |       |       SkiaSharp.xml
+|   |       |       
+|   |       +---tizen40
+|   |       |       SkiaSharp.dll
+|   |       |       SkiaSharp.pdb
+|   |       |       SkiaSharp.xml
+|   |       |       
+|   |       +---uap10.0.10240
+|   |       |       SkiaSharp.dll
+|   |       |       SkiaSharp.pdb
+|   |       |       SkiaSharp.xml
+|   |       |       
+|   |       +---uap10.0.16299
+|   |       |       SkiaSharp.dll
+|   |       |       SkiaSharp.pdb
+|   |       |       SkiaSharp.xml
+|   |       |       
+|   |       +---xamarinios1.0
+|   |       |       SkiaSharp.dll
+|   |       |       SkiaSharp.pdb
+|   |       |       SkiaSharp.xml
+|   |       |       
+|   |       +---xamarinmac2.0
+|   |       |       SkiaSharp.dll
+|   |       |       SkiaSharp.pdb
+|   |       |       SkiaSharp.xml
+|   |       |       
+|   |       +---xamarintvos1.0
+|   |       |       SkiaSharp.dll
+|   |       |       SkiaSharp.pdb
+|   |       |       SkiaSharp.xml
+|   |       |       
+|   |       \---xamarinwatchos1.0
+|   |               SkiaSharp.dll
+|   |               SkiaSharp.pdb
+|   |               SkiaSharp.xml
+|   |               
+|   +---SkiaSharp.HarfBuzz.2.88.9
+|   |   |   .signature.p7s
+|   |   |   LICENSE.txt
+|   |   |   SkiaSharp.HarfBuzz.2.88.9.nupkg
+|   |   |   
+|   |   \---lib
+|   |       +---net462
+|   |       |       SkiaSharp.HarfBuzz.dll
+|   |       |       SkiaSharp.HarfBuzz.pdb
+|   |       |       SkiaSharp.HarfBuzz.xml
+|   |       |       
+|   |       +---net6.0
+|   |       |       SkiaSharp.HarfBuzz.dll
+|   |       |       SkiaSharp.HarfBuzz.pdb
+|   |       |       SkiaSharp.HarfBuzz.xml
+|   |       |       
+|   |       +---netcoreapp3.1
+|   |       |       SkiaSharp.HarfBuzz.dll
+|   |       |       SkiaSharp.HarfBuzz.pdb
+|   |       |       SkiaSharp.HarfBuzz.xml
+|   |       |       
+|   |       +---netstandard1.3
+|   |       |       SkiaSharp.HarfBuzz.dll
+|   |       |       SkiaSharp.HarfBuzz.pdb
+|   |       |       SkiaSharp.HarfBuzz.xml
+|   |       |       
+|   |       +---netstandard2.0
+|   |       |       SkiaSharp.HarfBuzz.dll
+|   |       |       SkiaSharp.HarfBuzz.pdb
+|   |       |       SkiaSharp.HarfBuzz.xml
+|   |       |       
+|   |       \---netstandard2.1
+|   |               SkiaSharp.HarfBuzz.dll
+|   |               SkiaSharp.HarfBuzz.pdb
+|   |               SkiaSharp.HarfBuzz.xml
+|   |               
+|   +---SkiaSharp.NativeAssets.Linux.NoDependencies.2.88.9
+|   |   |   .signature.p7s
+|   |   |   LICENSE.txt
+|   |   |   SkiaSharp.NativeAssets.Linux.NoDependencies.2.88.9.nupkg
+|   |   |   THIRD-PARTY-NOTICES.txt
+|   |   |   
+|   |   +---build
+|   |   |   \---net462
+|   |   |           SkiaSharp.NativeAssets.Linux.NoDependencies.targets
+|   |   |           
+|   |   +---buildTransitive
+|   |   |   \---net462
+|   |   |           SkiaSharp.NativeAssets.Linux.NoDependencies.targets
+|   |   |           
+|   |   +---lib
+|   |   |   +---net462
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---net6.0
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---netcoreapp3.1
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   \---netstandard1.3
+|   |   |           _._
+|   |   |           
+|   |   \---runtimes
+|   |       +---linux-arm
+|   |       |   \---native
+|   |       |           libSkiaSharp.so
+|   |       |           
+|   |       +---linux-arm64
+|   |       |   \---native
+|   |       |           libSkiaSharp.so
+|   |       |           
+|   |       +---linux-musl-x64
+|   |       |   \---native
+|   |       |           libSkiaSharp.so
+|   |       |           
+|   |       \---linux-x64
+|   |           \---native
+|   |                   libSkiaSharp.so
+|   |                   
+|   +---SkiaSharp.NativeAssets.macOS.2.88.9
+|   |   |   .signature.p7s
+|   |   |   LICENSE.txt
+|   |   |   SkiaSharp.NativeAssets.macOS.2.88.9.nupkg
+|   |   |   THIRD-PARTY-NOTICES.txt
+|   |   |   
+|   |   +---build
+|   |   |   +---net462
+|   |   |   |       SkiaSharp.NativeAssets.macOS.targets
+|   |   |   |       
+|   |   |   +---net6.0-macos10.15
+|   |   |   |       SkiaSharp.NativeAssets.macOS.targets
+|   |   |   |       
+|   |   |   \---xamarinmac2.0
+|   |   |           SkiaSharp.NativeAssets.macOS.targets
+|   |   |           
+|   |   +---buildTransitive
+|   |   |   +---net462
+|   |   |   |       SkiaSharp.NativeAssets.macOS.targets
+|   |   |   |       
+|   |   |   +---net6.0-macos10.15
+|   |   |   |       SkiaSharp.NativeAssets.macOS.targets
+|   |   |   |       
+|   |   |   \---xamarinmac2.0
+|   |   |           SkiaSharp.NativeAssets.macOS.targets
+|   |   |           
+|   |   +---lib
+|   |   |   +---net462
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---net6.0
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---net6.0-macos10.15
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---netcoreapp3.1
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---netstandard1.3
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   \---xamarinmac2.0
+|   |   |           _._
+|   |   |           
+|   |   \---runtimes
+|   |       \---osx
+|   |           \---native
+|   |                   libSkiaSharp.dylib
+|   |                   
+|   +---SkiaSharp.NativeAssets.Win32.2.88.9
+|   |   |   .signature.p7s
+|   |   |   LICENSE.txt
+|   |   |   SkiaSharp.NativeAssets.Win32.2.88.9.nupkg
+|   |   |   THIRD-PARTY-NOTICES.txt
+|   |   |   
+|   |   +---build
+|   |   |   \---net462
+|   |   |           SkiaSharp.NativeAssets.Win32.targets
+|   |   |           
+|   |   +---buildTransitive
+|   |   |   \---net462
+|   |   |           SkiaSharp.NativeAssets.Win32.targets
+|   |   |           
+|   |   +---lib
+|   |   |   +---net462
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---net6.0
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---netcoreapp3.1
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   \---netstandard1.3
+|   |   |           _._
+|   |   |           
+|   |   \---runtimes
+|   |       +---win-arm64
+|   |       |   \---native
+|   |       |           libSkiaSharp.dll
+|   |       |           
+|   |       +---win-x64
+|   |       |   \---native
+|   |       |           libSkiaSharp.dll
+|   |       |           
+|   |       \---win-x86
+|   |           \---native
+|   |                   libSkiaSharp.dll
+|   |                   
+|   +---SkiaSharp.Views.Desktop.Common.2.88.9
+|   |   |   .signature.p7s
+|   |   |   LICENSE.txt
+|   |   |   SkiaSharp.Views.Desktop.Common.2.88.9.nupkg
+|   |   |   
+|   |   \---lib
+|   |       +---net462
+|   |       |       SkiaSharp.Views.Desktop.Common.dll
+|   |       |       SkiaSharp.Views.Desktop.Common.pdb
+|   |       |       SkiaSharp.Views.Desktop.Common.xml
+|   |       |       
+|   |       +---netcoreapp3.1
+|   |       |       SkiaSharp.Views.Desktop.Common.dll
+|   |       |       SkiaSharp.Views.Desktop.Common.pdb
+|   |       |       SkiaSharp.Views.Desktop.Common.xml
+|   |       |       
+|   |       \---netstandard2.0
+|   |               SkiaSharp.Views.Desktop.Common.dll
+|   |               SkiaSharp.Views.Desktop.Common.pdb
+|   |               SkiaSharp.Views.Desktop.Common.xml
+|   |               
+|   +---SkiaSharp.Views.WindowsForms.2.88.9
+|   |   |   .signature.p7s
+|   |   |   LICENSE.txt
+|   |   |   SkiaSharp.Views.WindowsForms.2.88.9.nupkg
+|   |   |   
+|   |   \---lib
+|   |       +---net462
+|   |       |       SkiaSharp.Views.WindowsForms.dll
+|   |       |       SkiaSharp.Views.WindowsForms.pdb
+|   |       |       SkiaSharp.Views.WindowsForms.xml
+|   |       |       
+|   |       \---netcoreapp3.1
+|   |               SkiaSharp.Views.WindowsForms.dll
+|   |               SkiaSharp.Views.WindowsForms.pdb
+|   |               SkiaSharp.Views.WindowsForms.xml
+|   |               
+|   +---SkiaSharp.Views.WPF.2.88.9
+|   |   |   .signature.p7s
+|   |   |   LICENSE.txt
+|   |   |   SkiaSharp.Views.WPF.2.88.9.nupkg
+|   |   |   
+|   |   \---lib
+|   |       +---net462
+|   |       |       SkiaSharp.Views.WPF.dll
+|   |       |       SkiaSharp.Views.WPF.pdb
+|   |       |       SkiaSharp.Views.WPF.xml
+|   |       |       
+|   |       \---netcoreapp3.1
+|   |               SkiaSharp.Views.WPF.dll
+|   |               SkiaSharp.Views.WPF.pdb
+|   |               SkiaSharp.Views.WPF.xml
+|   |               
+|   +---System.Buffers.4.5.1
+|   |   |   .signature.p7s
+|   |   |   LICENSE.TXT
+|   |   |   System.Buffers.4.5.1.nupkg
+|   |   |   THIRD-PARTY-NOTICES.TXT
+|   |   |   useSharedDesignerContext.txt
+|   |   |   version.txt
+|   |   |   
+|   |   +---lib
+|   |   |   +---net461
+|   |   |   |       System.Buffers.dll
+|   |   |   |       System.Buffers.xml
+|   |   |   |       
+|   |   |   +---netcoreapp2.0
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---netstandard1.1
+|   |   |   |       System.Buffers.dll
+|   |   |   |       System.Buffers.xml
+|   |   |   |       
+|   |   |   +---netstandard2.0
+|   |   |   |       System.Buffers.dll
+|   |   |   |       System.Buffers.xml
+|   |   |   |       
+|   |   |   \---uap10.0.16299
+|   |   |           _._
+|   |   |           
+|   |   \---ref
+|   |       +---net45
+|   |       |       System.Buffers.dll
+|   |       |       System.Buffers.xml
+|   |       |       
+|   |       +---netcoreapp2.0
+|   |       |       _._
+|   |       |       
+|   |       +---netstandard1.1
+|   |       |       System.Buffers.dll
+|   |       |       System.Buffers.xml
+|   |       |       
+|   |       +---netstandard2.0
+|   |       |       System.Buffers.dll
+|   |       |       System.Buffers.xml
+|   |       |       
+|   |       \---uap10.0.16299
+|   |               _._
+|   |               
+|   +---System.Diagnostics.DiagnosticSource.6.0.1
+|   |   |   .signature.p7s
+|   |   |   Icon.png
+|   |   |   LICENSE.TXT
+|   |   |   System.Diagnostics.DiagnosticSource.6.0.1.nupkg
+|   |   |   THIRD-PARTY-NOTICES.TXT
+|   |   |   useSharedDesignerContext.txt
+|   |   |   
+|   |   +---buildTransitive
+|   |   |   +---netcoreapp2.0
+|   |   |   |       System.Diagnostics.DiagnosticSource.targets
+|   |   |   |       
+|   |   |   \---netcoreapp3.1
+|   |   |           _._
+|   |   |           
+|   |   \---lib
+|   |       +---net461
+|   |       |       System.Diagnostics.DiagnosticSource.dll
+|   |       |       System.Diagnostics.DiagnosticSource.xml
+|   |       |       
+|   |       +---net5.0
+|   |       |       System.Diagnostics.DiagnosticSource.dll
+|   |       |       System.Diagnostics.DiagnosticSource.xml
+|   |       |       
+|   |       +---net6.0
+|   |       |       System.Diagnostics.DiagnosticSource.dll
+|   |       |       System.Diagnostics.DiagnosticSource.xml
+|   |       |       
+|   |       \---netstandard2.0
+|   |               System.Diagnostics.DiagnosticSource.dll
+|   |               System.Diagnostics.DiagnosticSource.xml
+|   |               
+|   +---System.Drawing.Common.4.7.3
+|   |   |   .signature.p7s
+|   |   |   Icon.png
+|   |   |   LICENSE.TXT
+|   |   |   System.Drawing.Common.4.7.3.nupkg
+|   |   |   THIRD-PARTY-NOTICES.TXT
+|   |   |   useSharedDesignerContext.txt
+|   |   |   version.txt
+|   |   |   
+|   |   +---lib
+|   |   |   +---MonoAndroid10
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---MonoTouch10
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---net461
+|   |   |   |       System.Drawing.Common.dll
+|   |   |   |       
+|   |   |   +---netstandard2.0
+|   |   |   |       System.Drawing.Common.dll
+|   |   |   |       
+|   |   |   +---xamarinios10
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---xamarinmac20
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---xamarintvos10
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   \---xamarinwatchos10
+|   |   |           _._
+|   |   |           
+|   |   +---ref
+|   |   |   +---MonoAndroid10
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---MonoTouch10
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---net461
+|   |   |   |       System.Drawing.Common.dll
+|   |   |   |       
+|   |   |   +---netcoreapp3.0
+|   |   |   |       System.Drawing.Common.dll
+|   |   |   |       System.Drawing.Common.xml
+|   |   |   |       
+|   |   |   +---netstandard2.0
+|   |   |   |       System.Drawing.Common.dll
+|   |   |   |       
+|   |   |   +---xamarinios10
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---xamarinmac20
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---xamarintvos10
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   \---xamarinwatchos10
+|   |   |           _._
+|   |   |           
+|   |   \---runtimes
+|   |       +---unix
+|   |       |   \---lib
+|   |       |       +---netcoreapp2.0
+|   |       |       |       System.Drawing.Common.dll
+|   |       |       |       
+|   |       |       \---netcoreapp3.0
+|   |       |               System.Drawing.Common.dll
+|   |       |               System.Drawing.Common.xml
+|   |       |               
+|   |       \---win
+|   |           \---lib
+|   |               +---netcoreapp2.0
+|   |               |       System.Drawing.Common.dll
+|   |               |       
+|   |               \---netcoreapp3.0
+|   |                       System.Drawing.Common.dll
+|   |                       System.Drawing.Common.xml
+|   |                       
+|   +---System.IO.Pipelines.9.0.5
+|   |   |   .signature.p7s
+|   |   |   Icon.png
+|   |   |   LICENSE.TXT
+|   |   |   PACKAGE.md
+|   |   |   System.IO.Pipelines.9.0.5.nupkg
+|   |   |   THIRD-PARTY-NOTICES.TXT
+|   |   |   useSharedDesignerContext.txt
+|   |   |   
+|   |   +---buildTransitive
+|   |   |   +---net461
+|   |   |   |       System.IO.Pipelines.targets
+|   |   |   |       
+|   |   |   +---net462
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---net8.0
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   \---netcoreapp2.0
+|   |   |           System.IO.Pipelines.targets
+|   |   |           
+|   |   \---lib
+|   |       +---net462
+|   |       |       System.IO.Pipelines.dll
+|   |       |       System.IO.Pipelines.xml
+|   |       |       
+|   |       +---net8.0
+|   |       |       System.IO.Pipelines.dll
+|   |       |       System.IO.Pipelines.xml
+|   |       |       
+|   |       +---net9.0
+|   |       |       System.IO.Pipelines.dll
+|   |       |       System.IO.Pipelines.xml
+|   |       |       
+|   |       \---netstandard2.0
+|   |               System.IO.Pipelines.dll
+|   |               System.IO.Pipelines.xml
+|   |               
+|   +---System.Memory.4.5.5
+|   |   |   .signature.p7s
+|   |   |   LICENSE.TXT
+|   |   |   System.Memory.4.5.5.nupkg
+|   |   |   THIRD-PARTY-NOTICES.TXT
+|   |   |   useSharedDesignerContext.txt
+|   |   |   version.txt
+|   |   |   
+|   |   +---lib
+|   |   |   +---net461
+|   |   |   |       System.Memory.dll
+|   |   |   |       System.Memory.xml
+|   |   |   |       
+|   |   |   +---netcoreapp2.1
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---netstandard1.1
+|   |   |   |       System.Memory.dll
+|   |   |   |       System.Memory.xml
+|   |   |   |       
+|   |   |   \---netstandard2.0
+|   |   |           System.Memory.dll
+|   |   |           System.Memory.xml
+|   |   |           
+|   |   \---ref
+|   |       \---netcoreapp2.1
+|   |               _._
+|   |               
+|   +---System.Net.Http.Json.9.0.5
+|   |   |   .signature.p7s
+|   |   |   Icon.png
+|   |   |   LICENSE.TXT
+|   |   |   PACKAGE.md
+|   |   |   System.Net.Http.Json.9.0.5.nupkg
+|   |   |   THIRD-PARTY-NOTICES.TXT
+|   |   |   useSharedDesignerContext.txt
+|   |   |   
+|   |   +---buildTransitive
+|   |   |   +---net461
+|   |   |   |       System.Net.Http.Json.targets
+|   |   |   |       
+|   |   |   +---net462
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---net8.0
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   \---netcoreapp2.0
+|   |   |           System.Net.Http.Json.targets
+|   |   |           
+|   |   \---lib
+|   |       +---net462
+|   |       |       System.Net.Http.Json.dll
+|   |       |       System.Net.Http.Json.xml
+|   |       |       
+|   |       +---net8.0
+|   |       |       System.Net.Http.Json.dll
+|   |       |       System.Net.Http.Json.xml
+|   |       |       
+|   |       +---net9.0
+|   |       |       System.Net.Http.Json.dll
+|   |       |       System.Net.Http.Json.xml
+|   |       |       
+|   |       \---netstandard2.0
+|   |               System.Net.Http.Json.dll
+|   |               System.Net.Http.Json.xml
+|   |               
+|   +---System.Net.Http.WinHttpHandler.7.0.0
+|   |   |   .signature.p7s
+|   |   |   Icon.png
+|   |   |   LICENSE.TXT
+|   |   |   System.Net.Http.WinHttpHandler.7.0.0.nupkg
+|   |   |   THIRD-PARTY-NOTICES.TXT
+|   |   |   useSharedDesignerContext.txt
+|   |   |   
+|   |   +---buildTransitive
+|   |   |   +---net461
+|   |   |   |       System.Net.Http.WinHttpHandler.targets
+|   |   |   |       
+|   |   |   +---net462
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---net6.0
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   \---netcoreapp2.0
+|   |   |           System.Net.Http.WinHttpHandler.targets
+|   |   |           
+|   |   +---lib
+|   |   |   +---net462
+|   |   |   |       System.Net.Http.WinHttpHandler.dll
+|   |   |   |       System.Net.Http.WinHttpHandler.xml
+|   |   |   |       
+|   |   |   +---net6.0
+|   |   |   |       System.Net.Http.WinHttpHandler.dll
+|   |   |   |       System.Net.Http.WinHttpHandler.xml
+|   |   |   |       
+|   |   |   +---net7.0
+|   |   |   |       System.Net.Http.WinHttpHandler.dll
+|   |   |   |       System.Net.Http.WinHttpHandler.xml
+|   |   |   |       
+|   |   |   \---netstandard2.0
+|   |   |           System.Net.Http.WinHttpHandler.dll
+|   |   |           System.Net.Http.WinHttpHandler.xml
+|   |   |           
+|   |   \---runtimes
+|   |       \---win
+|   |           \---lib
+|   |               +---net6.0
+|   |               |       System.Net.Http.WinHttpHandler.dll
+|   |               |       System.Net.Http.WinHttpHandler.xml
+|   |               |       
+|   |               \---net7.0
+|   |                       System.Net.Http.WinHttpHandler.dll
+|   |                       System.Net.Http.WinHttpHandler.xml
+|   |                       
+|   +---System.Numerics.Vectors.4.5.0
+|   |   |   .signature.p7s
+|   |   |   LICENSE.TXT
+|   |   |   System.Numerics.Vectors.4.5.0.nupkg
+|   |   |   THIRD-PARTY-NOTICES.TXT
+|   |   |   useSharedDesignerContext.txt
+|   |   |   version.txt
+|   |   |   
+|   |   +---lib
+|   |   |   +---MonoAndroid10
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---MonoTouch10
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---net46
+|   |   |   |       System.Numerics.Vectors.dll
+|   |   |   |       System.Numerics.Vectors.xml
+|   |   |   |       
+|   |   |   +---netcoreapp2.0
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---netstandard1.0
+|   |   |   |       System.Numerics.Vectors.dll
+|   |   |   |       System.Numerics.Vectors.xml
+|   |   |   |       
+|   |   |   +---netstandard2.0
+|   |   |   |       System.Numerics.Vectors.dll
+|   |   |   |       System.Numerics.Vectors.xml
+|   |   |   |       
+|   |   |   +---portable-net45+win8+wp8+wpa81
+|   |   |   |       System.Numerics.Vectors.dll
+|   |   |   |       System.Numerics.Vectors.xml
+|   |   |   |       
+|   |   |   +---uap10.0.16299
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---xamarinios10
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---xamarinmac20
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---xamarintvos10
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   \---xamarinwatchos10
+|   |   |           _._
+|   |   |           
+|   |   \---ref
+|   |       +---MonoAndroid10
+|   |       |       _._
+|   |       |       
+|   |       +---MonoTouch10
+|   |       |       _._
+|   |       |       
+|   |       +---net45
+|   |       |       System.Numerics.Vectors.dll
+|   |       |       System.Numerics.Vectors.xml
+|   |       |       
+|   |       +---net46
+|   |       |       System.Numerics.Vectors.dll
+|   |       |       System.Numerics.Vectors.xml
+|   |       |       
+|   |       +---netcoreapp2.0
+|   |       |       _._
+|   |       |       
+|   |       +---netstandard1.0
+|   |       |       System.Numerics.Vectors.dll
+|   |       |       System.Numerics.Vectors.xml
+|   |       |       
+|   |       +---netstandard2.0
+|   |       |       System.Numerics.Vectors.dll
+|   |       |       System.Numerics.Vectors.xml
+|   |       |       
+|   |       +---uap10.0.16299
+|   |       |       _._
+|   |       |       
+|   |       +---xamarinios10
+|   |       |       _._
+|   |       |       
+|   |       +---xamarinmac20
+|   |       |       _._
+|   |       |       
+|   |       +---xamarintvos10
+|   |       |       _._
+|   |       |       
+|   |       \---xamarinwatchos10
+|   |               _._
+|   |               
+|   +---System.Runtime.CompilerServices.Unsafe.6.0.0
+|   |   |   .signature.p7s
+|   |   |   Icon.png
+|   |   |   LICENSE.TXT
+|   |   |   System.Runtime.CompilerServices.Unsafe.6.0.0.nupkg
+|   |   |   THIRD-PARTY-NOTICES.TXT
+|   |   |   useSharedDesignerContext.txt
+|   |   |   
+|   |   +---buildTransitive
+|   |   |   +---netcoreapp2.0
+|   |   |   |       System.Runtime.CompilerServices.Unsafe.targets
+|   |   |   |       
+|   |   |   \---netcoreapp3.1
+|   |   |           _._
+|   |   |           
+|   |   \---lib
+|   |       +---net461
+|   |       |       System.Runtime.CompilerServices.Unsafe.dll
+|   |       |       System.Runtime.CompilerServices.Unsafe.xml
+|   |       |       
+|   |       +---net6.0
+|   |       |       System.Runtime.CompilerServices.Unsafe.dll
+|   |       |       System.Runtime.CompilerServices.Unsafe.xml
+|   |       |       
+|   |       +---netcoreapp3.1
+|   |       |       System.Runtime.CompilerServices.Unsafe.dll
+|   |       |       System.Runtime.CompilerServices.Unsafe.xml
+|   |       |       
+|   |       \---netstandard2.0
+|   |               System.Runtime.CompilerServices.Unsafe.dll
+|   |               System.Runtime.CompilerServices.Unsafe.xml
+|   |               
+|   +---System.Runtime.InteropServices.RuntimeInformation.4.3.0
+|   |   |   .signature.p7s
+|   |   |   dotnet_library_license.txt
+|   |   |   System.Runtime.InteropServices.RuntimeInformation.4.3.0.nupkg
+|   |   |   ThirdPartyNotices.txt
+|   |   |   
+|   |   +---lib
+|   |   |   +---MonoAndroid10
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---MonoTouch10
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---net45
+|   |   |   |       System.Runtime.InteropServices.RuntimeInformation.dll
+|   |   |   |       
+|   |   |   +---netstandard1.1
+|   |   |   |       System.Runtime.InteropServices.RuntimeInformation.dll
+|   |   |   |       
+|   |   |   +---win8
+|   |   |   |       System.Runtime.InteropServices.RuntimeInformation.dll
+|   |   |   |       
+|   |   |   +---wpa81
+|   |   |   |       System.Runtime.InteropServices.RuntimeInformation.dll
+|   |   |   |       
+|   |   |   +---xamarinios10
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---xamarinmac20
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---xamarintvos10
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   \---xamarinwatchos10
+|   |   |           _._
+|   |   |           
+|   |   +---ref
+|   |   |   +---MonoAndroid10
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---MonoTouch10
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---netstandard1.1
+|   |   |   |       System.Runtime.InteropServices.RuntimeInformation.dll
+|   |   |   |       
+|   |   |   +---xamarinios10
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---xamarinmac20
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---xamarintvos10
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   \---xamarinwatchos10
+|   |   |           _._
+|   |   |           
+|   |   \---runtimes
+|   |       +---aot
+|   |       |   \---lib
+|   |       |       \---netcore50
+|   |       |               System.Runtime.InteropServices.RuntimeInformation.dll
+|   |       |               
+|   |       +---unix
+|   |       |   \---lib
+|   |       |       \---netstandard1.1
+|   |       |               System.Runtime.InteropServices.RuntimeInformation.dll
+|   |       |               
+|   |       \---win
+|   |           \---lib
+|   |               +---net45
+|   |               |       System.Runtime.InteropServices.RuntimeInformation.dll
+|   |               |       
+|   |               +---netcore50
+|   |               |       System.Runtime.InteropServices.RuntimeInformation.dll
+|   |               |       
+|   |               \---netstandard1.1
+|   |                       System.Runtime.InteropServices.RuntimeInformation.dll
+|   |                       
+|   +---System.Security.Cryptography.Pkcs.8.0.1
+|   |   |   .signature.p7s
+|   |   |   Icon.png
+|   |   |   LICENSE.TXT
+|   |   |   System.Security.Cryptography.Pkcs.8.0.1.nupkg
+|   |   |   THIRD-PARTY-NOTICES.TXT
+|   |   |   useSharedDesignerContext.txt
+|   |   |   
+|   |   +---buildTransitive
+|   |   |   +---net461
+|   |   |   |       System.Security.Cryptography.Pkcs.targets
+|   |   |   |       
+|   |   |   +---net462
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---net6.0
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   \---netcoreapp2.0
+|   |   |           System.Security.Cryptography.Pkcs.targets
+|   |   |           
+|   |   +---lib
+|   |   |   +---net462
+|   |   |   |       System.Security.Cryptography.Pkcs.dll
+|   |   |   |       System.Security.Cryptography.Pkcs.xml
+|   |   |   |       
+|   |   |   +---net6.0
+|   |   |   |       System.Security.Cryptography.Pkcs.dll
+|   |   |   |       System.Security.Cryptography.Pkcs.xml
+|   |   |   |       
+|   |   |   +---net7.0
+|   |   |   |       System.Security.Cryptography.Pkcs.dll
+|   |   |   |       System.Security.Cryptography.Pkcs.xml
+|   |   |   |       
+|   |   |   +---net8.0
+|   |   |   |       System.Security.Cryptography.Pkcs.dll
+|   |   |   |       System.Security.Cryptography.Pkcs.xml
+|   |   |   |       
+|   |   |   +---netstandard2.0
+|   |   |   |       System.Security.Cryptography.Pkcs.dll
+|   |   |   |       System.Security.Cryptography.Pkcs.xml
+|   |   |   |       
+|   |   |   \---netstandard2.1
+|   |   |           System.Security.Cryptography.Pkcs.dll
+|   |   |           System.Security.Cryptography.Pkcs.xml
+|   |   |           
+|   |   \---runtimes
+|   |       \---win
+|   |           \---lib
+|   |               +---net6.0
+|   |               |       System.Security.Cryptography.Pkcs.dll
+|   |               |       System.Security.Cryptography.Pkcs.xml
+|   |               |       
+|   |               +---net7.0
+|   |               |       System.Security.Cryptography.Pkcs.dll
+|   |               |       System.Security.Cryptography.Pkcs.xml
+|   |               |       
+|   |               \---net8.0
+|   |                       System.Security.Cryptography.Pkcs.dll
+|   |                       System.Security.Cryptography.Pkcs.xml
+|   |                       
+|   +---System.Security.Cryptography.Xml.8.0.2
+|   |   |   .signature.p7s
+|   |   |   Icon.png
+|   |   |   LICENSE.TXT
+|   |   |   System.Security.Cryptography.Xml.8.0.2.nupkg
+|   |   |   THIRD-PARTY-NOTICES.TXT
+|   |   |   useSharedDesignerContext.txt
+|   |   |   
+|   |   +---buildTransitive
+|   |   |   +---net461
+|   |   |   |       System.Security.Cryptography.Xml.targets
+|   |   |   |       
+|   |   |   +---net462
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---net6.0
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   \---netcoreapp2.0
+|   |   |           System.Security.Cryptography.Xml.targets
+|   |   |           
+|   |   \---lib
+|   |       +---net462
+|   |       |       System.Security.Cryptography.Xml.dll
+|   |       |       System.Security.Cryptography.Xml.xml
+|   |       |       
+|   |       +---net6.0
+|   |       |       System.Security.Cryptography.Xml.dll
+|   |       |       System.Security.Cryptography.Xml.xml
+|   |       |       
+|   |       +---net7.0
+|   |       |       System.Security.Cryptography.Xml.dll
+|   |       |       System.Security.Cryptography.Xml.xml
+|   |       |       
+|   |       +---net8.0
+|   |       |       System.Security.Cryptography.Xml.dll
+|   |       |       System.Security.Cryptography.Xml.xml
+|   |       |       
+|   |       \---netstandard2.0
+|   |               System.Security.Cryptography.Xml.dll
+|   |               System.Security.Cryptography.Xml.xml
+|   |               
+|   +---System.Text.Encoding.CodePages.5.0.0
+|   |   |   .signature.p7s
+|   |   |   Icon.png
+|   |   |   LICENSE.TXT
+|   |   |   System.Text.Encoding.CodePages.5.0.0.nupkg
+|   |   |   THIRD-PARTY-NOTICES.TXT
+|   |   |   useSharedDesignerContext.txt
+|   |   |   version.txt
+|   |   |   
+|   |   +---lib
+|   |   |   +---MonoAndroid10
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---MonoTouch10
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---net46
+|   |   |   |       System.Text.Encoding.CodePages.dll
+|   |   |   |       
+|   |   |   +---net461
+|   |   |   |       System.Text.Encoding.CodePages.dll
+|   |   |   |       System.Text.Encoding.CodePages.xml
+|   |   |   |       
+|   |   |   +---netstandard1.3
+|   |   |   |       System.Text.Encoding.CodePages.dll
+|   |   |   |       
+|   |   |   +---netstandard2.0
+|   |   |   |       System.Text.Encoding.CodePages.dll
+|   |   |   |       System.Text.Encoding.CodePages.xml
+|   |   |   |       
+|   |   |   +---xamarinios10
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---xamarinmac20
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---xamarintvos10
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   \---xamarinwatchos10
+|   |   |           _._
+|   |   |           
+|   |   +---ref
+|   |   |   +---MonoAndroid10
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---MonoTouch10
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---xamarinios10
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---xamarinmac20
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---xamarintvos10
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   \---xamarinwatchos10
+|   |   |           _._
+|   |   |           
+|   |   \---runtimes
+|   |       \---win
+|   |           \---lib
+|   |               +---net461
+|   |               |       System.Text.Encoding.CodePages.dll
+|   |               |       System.Text.Encoding.CodePages.xml
+|   |               |       
+|   |               +---netcoreapp2.0
+|   |               |       System.Text.Encoding.CodePages.dll
+|   |               |       System.Text.Encoding.CodePages.xml
+|   |               |       
+|   |               +---netstandard1.3
+|   |               |       System.Text.Encoding.CodePages.dll
+|   |               |       
+|   |               \---netstandard2.0
+|   |                       System.Text.Encoding.CodePages.dll
+|   |                       System.Text.Encoding.CodePages.xml
+|   |                       
+|   +---System.Text.Encodings.Web.9.0.5
+|   |   |   .signature.p7s
+|   |   |   Icon.png
+|   |   |   LICENSE.TXT
+|   |   |   PACKAGE.md
+|   |   |   System.Text.Encodings.Web.9.0.5.nupkg
+|   |   |   THIRD-PARTY-NOTICES.TXT
+|   |   |   useSharedDesignerContext.txt
+|   |   |   
+|   |   +---buildTransitive
+|   |   |   +---net461
+|   |   |   |       System.Text.Encodings.Web.targets
+|   |   |   |       
+|   |   |   +---net462
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---net8.0
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   \---netcoreapp2.0
+|   |   |           System.Text.Encodings.Web.targets
+|   |   |           
+|   |   +---lib
+|   |   |   +---net462
+|   |   |   |       System.Text.Encodings.Web.dll
+|   |   |   |       System.Text.Encodings.Web.xml
+|   |   |   |       
+|   |   |   +---net8.0
+|   |   |   |       System.Text.Encodings.Web.dll
+|   |   |   |       System.Text.Encodings.Web.xml
+|   |   |   |       
+|   |   |   +---net9.0
+|   |   |   |       System.Text.Encodings.Web.dll
+|   |   |   |       System.Text.Encodings.Web.xml
+|   |   |   |       
+|   |   |   \---netstandard2.0
+|   |   |           System.Text.Encodings.Web.dll
+|   |   |           System.Text.Encodings.Web.xml
+|   |   |           
+|   |   \---runtimes
+|   |       \---browser
+|   |           \---lib
+|   |               +---net8.0
+|   |               |       System.Text.Encodings.Web.dll
+|   |               |       System.Text.Encodings.Web.xml
+|   |               |       
+|   |               \---net9.0
+|   |                       System.Text.Encodings.Web.dll
+|   |                       System.Text.Encodings.Web.xml
+|   |                       
+|   +---System.Text.Json.9.0.5
+|   |   |   .signature.p7s
+|   |   |   Icon.png
+|   |   |   LICENSE.TXT
+|   |   |   PACKAGE.md
+|   |   |   System.Text.Json.9.0.5.nupkg
+|   |   |   THIRD-PARTY-NOTICES.TXT
+|   |   |   useSharedDesignerContext.txt
+|   |   |   
+|   |   +---analyzers
+|   |   |   \---dotnet
+|   |   |       +---roslyn3.11
+|   |   |       |   \---cs
+|   |   |       |       |   System.Text.Json.SourceGeneration.dll
+|   |   |       |       |   
+|   |   |       |       +---cs
+|   |   |       |       |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---de
+|   |   |       |       |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---es
+|   |   |       |       |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---fr
+|   |   |       |       |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---it
+|   |   |       |       |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---ja
+|   |   |       |       |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---ko
+|   |   |       |       |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---pl
+|   |   |       |       |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---pt-BR
+|   |   |       |       |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---ru
+|   |   |       |       |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---tr
+|   |   |       |       |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---zh-Hans
+|   |   |       |       |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |       |       |       
+|   |   |       |       \---zh-Hant
+|   |   |       |               System.Text.Json.SourceGeneration.resources.dll
+|   |   |       |               
+|   |   |       +---roslyn4.0
+|   |   |       |   \---cs
+|   |   |       |       |   System.Text.Json.SourceGeneration.dll
+|   |   |       |       |   
+|   |   |       |       +---cs
+|   |   |       |       |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---de
+|   |   |       |       |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---es
+|   |   |       |       |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---fr
+|   |   |       |       |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---it
+|   |   |       |       |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---ja
+|   |   |       |       |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---ko
+|   |   |       |       |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---pl
+|   |   |       |       |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---pt-BR
+|   |   |       |       |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---ru
+|   |   |       |       |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---tr
+|   |   |       |       |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |       |       |       
+|   |   |       |       +---zh-Hans
+|   |   |       |       |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |       |       |       
+|   |   |       |       \---zh-Hant
+|   |   |       |               System.Text.Json.SourceGeneration.resources.dll
+|   |   |       |               
+|   |   |       \---roslyn4.4
+|   |   |           \---cs
+|   |   |               |   System.Text.Json.SourceGeneration.dll
+|   |   |               |   
+|   |   |               +---cs
+|   |   |               |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |               |       
+|   |   |               +---de
+|   |   |               |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |               |       
+|   |   |               +---es
+|   |   |               |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |               |       
+|   |   |               +---fr
+|   |   |               |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |               |       
+|   |   |               +---it
+|   |   |               |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |               |       
+|   |   |               +---ja
+|   |   |               |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |               |       
+|   |   |               +---ko
+|   |   |               |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |               |       
+|   |   |               +---pl
+|   |   |               |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |               |       
+|   |   |               +---pt-BR
+|   |   |               |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |               |       
+|   |   |               +---ru
+|   |   |               |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |               |       
+|   |   |               +---tr
+|   |   |               |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |               |       
+|   |   |               +---zh-Hans
+|   |   |               |       System.Text.Json.SourceGeneration.resources.dll
+|   |   |               |       
+|   |   |               \---zh-Hant
+|   |   |                       System.Text.Json.SourceGeneration.resources.dll
+|   |   |                       
+|   |   +---buildTransitive
+|   |   |   +---net461
+|   |   |   |       System.Text.Json.targets
+|   |   |   |       
+|   |   |   +---net462
+|   |   |   |       System.Text.Json.targets
+|   |   |   |       
+|   |   |   +---net8.0
+|   |   |   |       System.Text.Json.targets
+|   |   |   |       
+|   |   |   +---netcoreapp2.0
+|   |   |   |       System.Text.Json.targets
+|   |   |   |       
+|   |   |   \---netstandard2.0
+|   |   |           System.Text.Json.targets
+|   |   |           
+|   |   \---lib
+|   |       +---net462
+|   |       |       System.Text.Json.dll
+|   |       |       System.Text.Json.xml
+|   |       |       
+|   |       +---net8.0
+|   |       |       System.Text.Json.dll
+|   |       |       System.Text.Json.xml
+|   |       |       
+|   |       +---net9.0
+|   |       |       System.Text.Json.dll
+|   |       |       System.Text.Json.xml
+|   |       |       
+|   |       \---netstandard2.0
+|   |               System.Text.Json.dll
+|   |               System.Text.Json.xml
+|   |               
+|   +---System.Threading.Tasks.Extensions.4.5.4
+|   |   |   .signature.p7s
+|   |   |   LICENSE.TXT
+|   |   |   System.Threading.Tasks.Extensions.4.5.4.nupkg
+|   |   |   THIRD-PARTY-NOTICES.TXT
+|   |   |   useSharedDesignerContext.txt
+|   |   |   version.txt
+|   |   |   
+|   |   +---lib
+|   |   |   +---MonoAndroid10
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---MonoTouch10
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---net461
+|   |   |   |       System.Threading.Tasks.Extensions.dll
+|   |   |   |       System.Threading.Tasks.Extensions.xml
+|   |   |   |       
+|   |   |   +---netcoreapp2.1
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---netstandard1.0
+|   |   |   |       System.Threading.Tasks.Extensions.dll
+|   |   |   |       System.Threading.Tasks.Extensions.xml
+|   |   |   |       
+|   |   |   +---netstandard2.0
+|   |   |   |       System.Threading.Tasks.Extensions.dll
+|   |   |   |       System.Threading.Tasks.Extensions.xml
+|   |   |   |       
+|   |   |   +---portable-net45+win8+wp8+wpa81
+|   |   |   |       System.Threading.Tasks.Extensions.dll
+|   |   |   |       System.Threading.Tasks.Extensions.xml
+|   |   |   |       
+|   |   |   +---xamarinios10
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---xamarinmac20
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   +---xamarintvos10
+|   |   |   |       _._
+|   |   |   |       
+|   |   |   \---xamarinwatchos10
+|   |   |           _._
+|   |   |           
+|   |   \---ref
+|   |       +---MonoAndroid10
+|   |       |       _._
+|   |       |       
+|   |       +---MonoTouch10
+|   |       |       _._
+|   |       |       
+|   |       +---netcoreapp2.1
+|   |       |       _._
+|   |       |       
+|   |       +---xamarinios10
+|   |       |       _._
+|   |       |       
+|   |       +---xamarinmac20
+|   |       |       _._
+|   |       |       
+|   |       +---xamarintvos10
+|   |       |       _._
+|   |       |       
+|   |       \---xamarinwatchos10
+|   |               _._
+|   |               
+|   \---System.ValueTuple.4.5.0
+|       |   .signature.p7s
+|       |   LICENSE.TXT
+|       |   System.ValueTuple.4.5.0.nupkg
+|       |   THIRD-PARTY-NOTICES.TXT
+|       |   useSharedDesignerContext.txt
+|       |   version.txt
+|       |   
+|       +---lib
+|       |   +---MonoAndroid10
+|       |   |       _._
+|       |   |       
+|       |   +---MonoTouch10
+|       |   |       _._
+|       |   |       
+|       |   +---net461
+|       |   |       System.ValueTuple.dll
+|       |   |       System.ValueTuple.xml
+|       |   |       
+|       |   +---net47
+|       |   |       System.ValueTuple.dll
+|       |   |       System.ValueTuple.xml
+|       |   |       
+|       |   +---netcoreapp2.0
+|       |   |       _._
+|       |   |       
+|       |   +---netstandard1.0
+|       |   |       System.ValueTuple.dll
+|       |   |       System.ValueTuple.xml
+|       |   |       
+|       |   +---netstandard2.0
+|       |   |       _._
+|       |   |       
+|       |   +---portable-net40+sl4+win8+wp8
+|       |   |       System.ValueTuple.dll
+|       |   |       System.ValueTuple.xml
+|       |   |       
+|       |   +---uap10.0.16299
+|       |   |       _._
+|       |   |       
+|       |   +---xamarinios10
+|       |   |       _._
+|       |   |       
+|       |   +---xamarinmac20
+|       |   |       _._
+|       |   |       
+|       |   +---xamarintvos10
+|       |   |       _._
+|       |   |       
+|       |   \---xamarinwatchos10
+|       |           _._
+|       |           
+|       \---ref
+|           +---MonoAndroid10
+|           |       _._
+|           |       
+|           +---MonoTouch10
+|           |       _._
+|           |       
+|           +---net461
+|           |       System.ValueTuple.dll
+|           |       
+|           +---net47
+|           |       System.ValueTuple.dll
+|           |       
+|           +---netcoreapp2.0
+|           |       _._
+|           |       
+|           +---netstandard2.0
+|           |       _._
+|           |       
+|           +---portable-net40+sl4+win8+wp8
+|           |       System.ValueTuple.dll
+|           |       
+|           +---uap10.0.16299
+|           |       _._
+|           |       
+|           +---xamarinios10
+|           |       _._
+|           |       
+|           +---xamarinmac20
+|           |       _._
+|           |       
+|           +---xamarintvos10
+|           |       _._
+|           |       
+|           \---xamarinwatchos10
+|                   _._
+|                   
++---Properties
+|       AssemblyInfo.cs
+|       Resources.Designer.cs
+|       Resources.resx
+|       Settings.Designer.cs
+|       Settings.settings
+|       
++---protos
+|   \---google
+|       +---api
+|       |       annotations.proto
+|       |       auth.proto
+|       |       backend.proto
+|       |       billing.proto
+|       |       client.proto
+|       |       config_change.proto
+|       |       consumer.proto
+|       |       context.proto
+|       |       control.proto
+|       |       distribution.proto
+|       |       documentation.proto
+|       |       endpoint.proto
+|       |       error_reason.proto
+|       |       field_behavior.proto
+|       |       field_info.proto
+|       |       http.proto
+|       |       httpbody.proto
+|       |       label.proto
+|       |       launch_stage.proto
+|       |       log.proto
+|       |       logging.proto
+|       |       metric.proto
+|       |       monitored_resource.proto
+|       |       monitoring.proto
+|       |       policy.proto
+|       |       quota.proto
+|       |       resource.proto
+|       |       routing.proto
+|       |       service.proto
+|       |       source_info.proto
+|       |       system_parameter.proto
+|       |       usage.proto
+|       |       visibility.proto
+|       |       
+|       +---rpc
+|       |   |   code.proto
+|       |   |   error_details.proto
+|       |   |   http.proto
+|       |   |   status.proto
+|       |   |   
+|       |   \---context
+|       |           attribute_context.proto
+|       |           audit_context.proto
+|       |           
+|       \---type
+|               calendar_period.proto
+|               color.proto
+|               date.proto
+|               datetime.proto
+|               dayofweek.proto
+|               decimal.proto
+|               expr.proto
+|               fraction.proto
+|               interval.proto
+|               latlng.proto
+|               localized_text.proto
+|               money.proto
+|               month.proto
+|               phone_number.proto
+|               postal_address.proto
+|               quaternion.proto
+|               timeofday.proto
+|               
+\---Views
+        HomeView.xaml
+        HomeView.xaml.cs
+        SettingsView.xaml
+        SettingsView.xaml.cs
+        UserDataView.xaml
+        UserDataView.xaml.cs
+        
